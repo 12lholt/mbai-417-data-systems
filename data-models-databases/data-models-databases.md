@@ -9,7 +9,7 @@
 
 [Floating point info](https://github.com/brook-miller/mbai-417-data/blob/main/data-models-databases/homework/floating_point_oddities.ipynb) some info on floating point oddities and how to perform a cast in postgreSQL which will be helpful for the homework assignment
 
-[Reflection Topic Assignments & Due Dates](https://canvas.northwestern.edu/courses/160099/assignments) - I created groups and added a reflection assignment to each group in canvas with the appropriate due date.  Please reach out over email / class if you do not have a reflection assignment or if there seem to be problems. [Reflection Template](https://github.com/brook-miller/mbai-417-data/blob/main/Reflection%20Template.ipynb)
+[Reflection Topic Assignments & Due Dates](https://canvas.northwestern.edu/courses/160099/assignments) - I created groups and added a reflection assignment to each group in canvas with the appropriate due date.  Please reach out over email or in class if you do not have a reflection assignment or if there seem to be problems. [Reflection Template](https://github.com/brook-miller/mbai-417-data/blob/main/Reflection%20Template.ipynb)  You can also use google docs to make it easier to share and submit a link to your shared google doc.
 
 ## Probably Helpful
 [Slides](https://github.com/brook-miller/mbai-417-data/blob/main/data-models-databases/data-models-databases.pdf)
