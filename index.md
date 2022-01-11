@@ -25,7 +25,7 @@ We'll be using SQL (not teaching SQL) so please do take the SQL Bolt tutorial as
 https://sqlbolt.com/ 
 
 # Course Structure
-## Week 1: Data Models and Databases
+## Data Models & Databases
 
 ### Objectives
 - Apply the key models of data intensive products / projects
@@ -42,8 +42,11 @@ https://future.a16z.com/podcasts/developers-creative-class-company-innovation/
 [SQL Bolt Complete Lessons 1-11](https://sqlbolt.com/  ) (through SQL Lesson 11: Queries with aggregates (Pt. 2))  
 https://sqlbolt.com/  
 
+### [Slides](https://github.com/brook-miller/mbai-417-data/blob/main/data-models-databases/data-models-databases.pdf)
 
-## Week 2: Enterprise Data & Data Quality
+### [Homework, Notes, Additional Readings](https://brook-miller.github.io/mbai-417-data/data-models-databases/)
+
+## Enterprise Data & Data Quality
 
 ### Objectives
 - Understand the operational data systems in the enterprise
@@ -63,7 +66,7 @@ Texas officials order power plant operators to prepare for winter [hazards](http
 https://www.npr.org/2021/12/07/1062017005/texas-officials-order-power-plant-operators-to-prepare-for-winter-hazards
 
 
-## Week 3: Emerging Data and Cloud
+## Emerging Data & Cloud
 
 ### Objectives
 - Realize the transformational impact of the cloud on data & analytics architecture
@@ -79,7 +82,7 @@ AWS Data [Exchange](https://aws.amazon.com/data-exchange/)
 https://aws.amazon.com/data-exchange/
 
 
-## Week 4: Data Governance and Metadata
+## Data Governance & Metadata
 
 ### Objectives
 - Understand the existing trends in the regulatory environment
@@ -95,7 +98,7 @@ https://medium.com/97-things/accessible-data-empowers-organizations-but-it-can-a
 https://www.bostonglobe.com/business/technology/2016/03/31/making-movies-moneyball-way/Uzgwh2cdGthA1N3nZHqz0N/story.html
 
 
-## Class 5: Operationalizing Data
+## Operationalizing Data
 
 ### Objectives
 - Incorporate the elements of the modern data stack into products / projects

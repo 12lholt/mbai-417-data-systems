@@ -7,9 +7,9 @@
 * Submit url for the assignment via [canvas](https://canvas.northwestern.edu/courses/160099/assignments/988109)
 * Please include the names of your pair or triple in the submission
 
-[Floating point info]() some info on floating point oddities and how to perform a cast in postgreSQL which will be helpful for the homework assignment
+[Floating point info](https://github.com/brook-miller/mbai-417-data/blob/main/data-models-databases/homework/floating_point_oddities.ipynb) some info on floating point oddities and how to perform a cast in postgreSQL which will be helpful for the homework assignment
 
-[Reflection Topic Assignments & Due Dates](https://canvas.northwestern.edu/courses/160099/assignments) - I created groups and added a reflection assignment to each group in canvas with the appropriate due date.  Please reach out over email / class if you do not have a reflection assignment or if there seem to be problems. 
+[Reflection Topic Assignments & Due Dates](https://canvas.northwestern.edu/courses/160099/assignments) - I created groups and added a reflection assignment to each group in canvas with the appropriate due date.  Please reach out over email or in class if you do not have a reflection assignment or if there seem to be problems. [Reflection Template](https://github.com/brook-miller/mbai-417-data/blob/main/Reflection%20Template.ipynb)  You can also use google docs to make it easier to share and submit a link to your shared google doc.
 
 ## Probably Helpful
 [Slides](https://github.com/brook-miller/mbai-417-data/blob/main/data-models-databases/data-models-databases.pdf)
@@ -25,3 +25,4 @@
 * [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) - CRUD apps are straightforward interface apps to a database.  While they seem "simple" there are often hidden "business logic" encoded in the interface and logic layer of the app.  We will talk about business logic in class 2.
 * [REST](https://www.ibm.com/cloud/learn/rest-apis)- Most of the APIs driving the modern web and mobile apps are a form of REST.  They typically transfer data using the http protocol encoded in the [JSON](https://www.json.org/json-en.html) format.
 * [Designing Data-Intensive Applications](https://dataintensive.net/) - this book is probably due for a second edition but is the definitive guide for understanding how applications are built and delivered at massive scale, early chapters are a good introduction to data models with a number of real life examples.  Maybe it's not the most recommended book on [hacker news](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=designing%20data%20intensive%20applications&sort=byDate&type=comment) but it is close.
+* [The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/)
