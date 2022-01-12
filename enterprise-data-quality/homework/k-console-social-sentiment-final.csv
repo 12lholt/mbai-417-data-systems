@@ -1,0 +1,2183 @@
+﻿topic,week_start_date,country,sentiment,volume
+K Console,10/30/2017,Australia,negative,115
+K Console,10/30/2017,United Kingdom,neutral,6227
+K Console,10/30/2017,Australia,neutral,1135
+K Console,10/30/2017,Germany,unassigned,95
+K Console,10/30/2017,United States,neutral,54020
+K Console,10/30/2017,Germany,positive,1061
+K Console,10/30/2017,Australia,unassigned,16
+K Console,10/30/2017,United Kingdom,positive,1405
+K Console,10/30/2017,United Kingdom,negative,519
+K Console,10/30/2017,United States,positive,11492
+K Console,10/30/2017,Germany,negative,348
+K Console,10/30/2017,United States,unassigned,1200
+K Console,10/30/2017,Australia,positive,325
+K Console,10/30/2017,United States,negative,6143
+K Console,10/30/2017,United Kingdom,unassigned,174
+K Console,10/30/2017,Germany,neutral,
+K Console,11/6/2017,Australia,neutral,1856
+K Console,11/6/2017,Germany,neutral,2200
+K Console,11/6/2017,United Kingdom,neutral,9554
+K Console,11/6/2017,United Kingdom,negative,825
+K Console,11/6/2017,Australia,positive,405
+K Console,11/6/2017,Australia,negative,133
+K Console,11/6/2017,Germany,unassigned,85
+K Console,11/6/2017,United States,negative,8222
+K Console,11/6/2017,Germany,positive,1629
+K Console,11/6/2017,United Kingdom,positive,1729
+K Console,11/6/2017,United States,unassigned,1476
+K Console,11/6/2017,United States,neutral,75742
+K Console,11/6/2017,United Kingdom,unassigned,204
+K Console,11/6/2017,United States,positive,15450
+K Console,11/6/2017,Australia,unassigned,29
+K Console,11/6/2017,Germany,negative,
+K Console,11/13/2017,United Kingdom,unassigned,238
+K Console,11/13/2017,United Kingdom,neutral,11959
+K Console,11/13/2017,Australia,negative,181
+K Console,11/13/2017,United States,positive,14200
+K Console,11/13/2017,United States,unassigned,1344
+K Console,11/13/2017,Germany,positive,1301
+K Console,11/13/2017,United Kingdom,negative,1153
+K Console,11/13/2017,Australia,positive,353
+K Console,11/13/2017,Germany,unassigned,60
+K Console,11/13/2017,United States,neutral,84234
+K Console,11/13/2017,United States,negative,8337
+K Console,11/13/2017,Australia,neutral,2439
+K Console,11/13/2017,Germany,negative,
+K Console,11/13/2017,Australia,unassigned,
+K Console,11/13/2017,Germany,neutral,
+K Console,11/13/2017,United Kingdom,positive,
+K Console,11/20/2017,Australia,negative,145
+K Console,11/20/2017,United States,unassigned,1272
+K Console,11/20/2017,Germany,neutral,3109
+K Console,11/20/2017,United Kingdom,positive,2095
+K Console,11/20/2017,United States,positive,12979
+K Console,11/20/2017,Australia,unassigned,26
+K Console,11/20/2017,United Kingdom,unassigned,245
+K Console,11/20/2017,United Kingdom,negative,1040
+K Console,11/20/2017,Australia,neutral,2032
+K Console,11/20/2017,Germany,unassigned,86
+K Console,11/20/2017,United Kingdom,neutral,13457
+K Console,11/20/2017,Australia,positive,409
+K Console,11/20/2017,United States,negative,6373
+K Console,11/20/2017,Germany,positive,
+K Console,11/20/2017,Germany,negative,
+K Console,11/20/2017,United States,neutral,
+K Console,11/27/2017,United Kingdom,positive,1335
+K Console,11/27/2017,Australia,positive,147
+K Console,11/27/2017,United Kingdom,neutral,4333
+K Console,11/27/2017,Australia,negative,55
+K Console,11/27/2017,United States,neutral,41008
+K Console,11/27/2017,Germany,unassigned,38
+K Console,11/27/2017,United States,positive,7305
+K Console,11/27/2017,United States,negative,3127
+K Console,11/27/2017,Germany,positive,655
+K Console,11/27/2017,Germany,negative,176
+K Console,11/27/2017,United States,neutral,41517
+K Console,11/27/2017,Australia,negative,57
+K Console,11/27/2017,Germany,neutral,1028
+K Console,11/27/2017,Australia,positive,188
+K Console,11/27/2017,United States,positive,8235
+K Console,11/27/2017,United States,negative,4472
+K Console,11/27/2017,United Kingdom,negative,380
+K Console,11/27/2017,Australia,neutral,813
+K Console,11/27/2017,United Kingdom,unassigned,126
+K Console,11/27/2017,Australia,neutral,711
+K Console,11/27/2017,Germany,unassigned,43
+K Console,11/27/2017,United States,unassigned,749
+K Console,11/27/2017,United Kingdom,negative,252
+K Console,11/27/2017,Germany,neutral,1150
+K Console,11/27/2017,United States,unassigned,489
+K Console,11/27/2017,United Kingdom,unassigned,66
+K Console,11/27/2017,United Kingdom,positive,768
+K Console,11/27/2017,Germany,positive,706
+K Console,11/27/2017,Australia,unassigned,
+K Console,11/27/2017,Australia,unassigned,
+K Console,11/27/2017,Germany,negative,
+K Console,11/27/2017,United Kingdom,neutral,
+K Console,12/4/2017,Australia,neutral,1957
+K Console,12/4/2017,Australia,unassigned,41
+K Console,12/4/2017,United States,neutral,94338
+K Console,12/4/2017,Germany,unassigned,156
+K Console,12/4/2017,Germany,negative,602
+K Console,12/4/2017,United Kingdom,unassigned,323
+K Console,12/4/2017,United States,positive,20550
+K Console,12/4/2017,United States,unassigned,2422
+K Console,12/4/2017,Germany,positive,2171
+K Console,12/4/2017,United Kingdom,negative,738
+K Console,12/4/2017,United Kingdom,neutral,13445
+K Console,12/4/2017,United States,negative,9993
+K Console,12/4/2017,United Kingdom,positive,2531
+K Console,12/4/2017,Australia,positive,
+K Console,12/4/2017,Germany,neutral,
+K Console,12/4/2017,Australia,negative,
+K Console,12/11/2017,Germany,positive,1500
+K Console,12/11/2017,Australia,negative,168
+K Console,12/11/2017,Australia,unassigned,30
+K Console,12/11/2017,United States,unassigned,1683
+K Console,12/11/2017,Germany,neutral,3490
+K Console,12/11/2017,United Kingdom,positive,2238
+K Console,12/11/2017,United States,positive,16888
+K Console,12/11/2017,United Kingdom,unassigned,253
+K Console,12/11/2017,United States,neutral,85123
+K Console,12/11/2017,United Kingdom,neutral,14121
+K Console,12/11/2017,United Kingdom,negative,855
+K Console,12/11/2017,Australia,positive,276
+K Console,12/11/2017,Germany,negative,
+K Console,12/11/2017,United States,negative,
+K Console,12/11/2017,Australia,neutral,
+K Console,12/11/2017,Germany,unassigned,
+K Console,12/18/2017,Australia,positive,370
+K Console,12/18/2017,United Kingdom,positive,2647
+K Console,12/18/2017,Australia,unassigned,24
+K Console,12/18/2017,United Kingdom,negative,607
+K Console,12/18/2017,United Kingdom,neutral,12206
+K Console,12/18/2017,United States,neutral,71803
+K Console,12/18/2017,United States,positive,17175
+K Console,12/18/2017,Germany,unassigned,62
+K Console,12/18/2017,Germany,neutral,8682
+K Console,12/18/2017,United Kingdom,unassigned,151
+K Console,12/18/2017,United States,unassigned,917
+K Console,12/18/2017,Germany,positive,7725
+K Console,12/18/2017,Australia,negative,119
+K Console,12/18/2017,Australia,neutral,1375
+K Console,12/18/2017,Germany,negative,
+K Console,12/18/2017,United States,negative,
+K Console,12/25/2017,United States,negative,7822
+K Console,12/25/2017,Germany,unassigned,57
+K Console,12/25/2017,United Kingdom,positive,1593
+K Console,12/25/2017,Australia,positive,267
+K Console,12/25/2017,United Kingdom,unassigned,124
+K Console,12/25/2017,Germany,positive,1206
+K Console,12/25/2017,United States,unassigned,795
+K Console,12/25/2017,Australia,unassigned,21
+K Console,12/25/2017,Germany,negative,387
+K Console,12/25/2017,United States,neutral,67830
+K Console,12/25/2017,Australia,negative,93
+K Console,12/25/2017,Germany,neutral,1805
+K Console,12/25/2017,Australia,neutral,1329
+K Console,12/25/2017,United Kingdom,neutral,10564
+K Console,12/25/2017,United Kingdom,negative,552
+K Console,12/25/2017,United States,positive,16068
+K Console,1/1/2018,United Kingdom,positive,1370
+K Console,1/1/2018,United States,positive,13051
+K Console,1/1/2018,Australia,unassigned,19
+K Console,1/1/2018,United Kingdom,unassigned,149
+K Console,1/1/2018,United States,negative,7283
+K Console,1/1/2018,Germany,unassigned,82
+K Console,1/1/2018,Germany,neutral,2341
+K Console,1/1/2018,United Kingdom,neutral,9933
+K Console,1/1/2018,Australia,positive,197
+K Console,1/1/2018,United Kingdom,negative,521
+K Console,1/1/2018,Australia,neutral,1100
+K Console,1/1/2018,United States,unassigned,1151
+K Console,1/1/2018,Australia,negative,81
+K Console,1/1/2018,United States,neutral,79220
+K Console,1/1/2018,Germany,negative,557
+K Console,1/1/2018,Germany,positive,
+K Console,1/8/2018,Australia,unassigned,18
+K Console,1/8/2018,Australia,negative,89
+K Console,1/8/2018,United States,negative,8303
+K Console,1/8/2018,United States,neutral,74172
+K Console,1/8/2018,United Kingdom,unassigned,185
+K Console,1/8/2018,United Kingdom,positive,1543
+K Console,1/8/2018,Germany,neutral,1999
+K Console,1/8/2018,Germany,unassigned,83
+K Console,1/8/2018,Australia,positive,253
+K Console,1/8/2018,Germany,negative,538
+K Console,1/8/2018,United Kingdom,neutral,7477
+K Console,1/8/2018,United States,unassigned,
+K Console,1/8/2018,United Kingdom,negative,
+K Console,1/8/2018,Australia,neutral,
+K Console,1/8/2018,United States,positive,
+K Console,1/8/2018,Germany,positive,
+K Console,1/15/2018,Germany,unassigned,139
+K Console,1/15/2018,Australia,positive,282
+K Console,1/15/2018,United States,negative,8287
+K Console,1/15/2018,United Kingdom,positive,1672
+K Console,1/15/2018,United Kingdom,neutral,9325
+K Console,1/15/2018,United States,neutral,79760
+K Console,1/15/2018,United States,positive,16121
+K Console,1/15/2018,Australia,neutral,1294
+K Console,1/15/2018,Germany,negative,662
+K Console,1/15/2018,United Kingdom,unassigned,205
+K Console,1/15/2018,Australia,unassigned,22
+K Console,1/15/2018,United States,unassigned,1975
+K Console,1/15/2018,Germany,positive,1781
+K Console,1/15/2018,United Kingdom,negative,700
+K Console,1/15/2018,Germany,neutral,
+K Console,1/15/2018,Australia,negative,
+K Console,1/22/2018,Australia,positive,278
+K Console,1/22/2018,Australia,neutral,1599
+K Console,1/22/2018,United States,unassigned,1927
+K Console,1/22/2018,Germany,positive,2220
+K Console,1/22/2018,Australia,unassigned,32
+K Console,1/22/2018,Australia,negative,170
+K Console,1/22/2018,United Kingdom,positive,1643
+K Console,1/22/2018,Germany,negative,562
+K Console,1/22/2018,United Kingdom,negative,1223
+K Console,1/22/2018,Germany,unassigned,114
+K Console,1/22/2018,United States,positive,16788
+K Console,1/22/2018,United States,negative,11453
+K Console,1/22/2018,United States,neutral,90589
+K Console,1/22/2018,United Kingdom,neutral,10466
+K Console,1/22/2018,United Kingdom,unassigned,
+K Console,1/22/2018,Germany,neutral,
+K Console,1/29/2018,Germany,unassigned,64
+K Console,1/29/2018,Germany,positive,682
+K Console,1/29/2018,United States,negative,4197
+K Console,1/29/2018,United Kingdom,positive,403
+K Console,1/29/2018,United States,positive,5913
+K Console,1/29/2018,Australia,unassigned,27
+K Console,1/29/2018,United States,unassigned,842
+K Console,1/29/2018,United Kingdom,negative,210
+K Console,1/29/2018,United States,positive,7265
+K Console,1/29/2018,Australia,negative,48
+K Console,1/29/2018,Germany,negative,157
+K Console,1/29/2018,United Kingdom,unassigned,44
+K Console,1/29/2018,United States,neutral,36753
+K Console,1/29/2018,United Kingdom,neutral,2237
+K Console,1/29/2018,Germany,negative,298
+K Console,1/29/2018,Germany,neutral,590
+K Console,1/29/2018,Australia,neutral,628
+K Console,1/29/2018,Australia,positive,137
+K Console,1/29/2018,Germany,positive,908
+K Console,1/29/2018,Australia,unassigned,5
+K Console,1/29/2018,Australia,positive,87
+K Console,1/29/2018,United States,neutral,30114
+K Console,1/29/2018,United States,negative,2709
+K Console,1/29/2018,United Kingdom,negative,309
+K Console,1/29/2018,Germany,unassigned,22
+K Console,1/29/2018,Germany,neutral,1532
+K Console,1/29/2018,United Kingdom,unassigned,144
+K Console,1/29/2018,Australia,negative,44
+K Console,1/29/2018,United Kingdom,neutral,4035
+K Console,1/29/2018,United Kingdom,positive,815
+K Console,1/29/2018,United States,unassigned,
+K Console,1/29/2018,Australia,neutral,
+K Console,2/5/2018,Australia,negative,125
+K Console,2/5/2018,United States,negative,8108
+K Console,2/5/2018,United States,unassigned,1419
+K Console,2/5/2018,United Kingdom,unassigned,123
+K Console,2/5/2018,Australia,neutral,1314
+K Console,2/5/2018,United States,neutral,71851
+K Console,2/5/2018,Germany,positive,1252
+K Console,2/5/2018,United Kingdom,positive,1365
+K Console,2/5/2018,Germany,neutral,1704
+K Console,2/5/2018,United States,positive,13125
+K Console,2/5/2018,United Kingdom,neutral,7147
+K Console,2/5/2018,United Kingdom,negative,521
+K Console,2/5/2018,Germany,unassigned,47
+K Console,2/5/2018,Australia,unassigned,30
+K Console,2/5/2018,Australia,positive,274
+K Console,2/5/2018,Germany,negative,528
+K Console,2/12/2018,United States,positive,14491
+K Console,2/12/2018,United Kingdom,unassigned,117
+K Console,2/12/2018,United States,unassigned,1417
+K Console,2/12/2018,United Kingdom,negative,483
+K Console,2/12/2018,Australia,negative,89
+K Console,2/12/2018,Germany,unassigned,41
+K Console,2/12/2018,United Kingdom,neutral,8265
+K Console,2/12/2018,United States,neutral,72913
+K Console,2/12/2018,Germany,neutral,2156
+K Console,2/12/2018,Australia,neutral,1316
+K Console,2/12/2018,United Kingdom,positive,1861
+K Console,2/12/2018,United States,negative,8241
+K Console,2/12/2018,Germany,positive,1676
+K Console,2/12/2018,Germany,negative,633
+K Console,2/12/2018,Australia,unassigned,
+K Console,2/12/2018,Australia,positive,
+K Console,2/19/2018,Australia,positive,321
+K Console,2/19/2018,United States,positive,11540
+K Console,2/19/2018,United States,unassigned,1029
+K Console,2/19/2018,Germany,positive,1420
+K Console,2/19/2018,Germany,unassigned,40
+K Console,2/19/2018,Australia,negative,136
+K Console,2/19/2018,United Kingdom,positive,1399
+K Console,2/19/2018,United States,negative,7624
+K Console,2/19/2018,United Kingdom,negative,587
+K Console,2/19/2018,United States,neutral,60828
+K Console,2/19/2018,Australia,unassigned,37
+K Console,2/19/2018,Germany,neutral,1733
+K Console,2/19/2018,United Kingdom,neutral,6911
+K Console,2/19/2018,Germany,negative,494
+K Console,2/19/2018,United Kingdom,unassigned,
+K Console,2/19/2018,Australia,neutral,
+K Console,2/26/2018,Australia,neutral,741
+K Console,2/26/2018,Germany,unassigned,13
+K Console,2/26/2018,United Kingdom,positive,778
+K Console,2/26/2018,United Kingdom,unassigned,22
+K Console,2/26/2018,Germany,negative,338
+K Console,2/26/2018,Germany,neutral,510
+K Console,2/26/2018,Australia,negative,46
+K Console,2/26/2018,United States,positive,7782
+K Console,2/26/2018,United States,positive,3732
+K Console,2/26/2018,Australia,unassigned,11
+K Console,2/26/2018,Australia,unassigned,11
+K Console,2/26/2018,Germany,neutral,964
+K Console,2/26/2018,United Kingdom,unassigned,89
+K Console,2/26/2018,Germany,unassigned,58
+K Console,2/26/2018,Germany,negative,142
+K Console,2/26/2018,United Kingdom,neutral,2013
+K Console,2/26/2018,Australia,neutral,437
+K Console,2/26/2018,Germany,positive,356
+K Console,2/26/2018,United States,unassigned,325
+K Console,2/26/2018,Australia,negative,21
+K Console,2/26/2018,Australia,positive,122
+K Console,2/26/2018,United Kingdom,neutral,4013
+K Console,2/26/2018,United States,neutral,34870
+K Console,2/26/2018,United Kingdom,positive,382
+K Console,2/26/2018,United States,neutral,18373
+K Console,2/26/2018,United Kingdom,negative,300
+K Console,2/26/2018,United States,negative,2047
+K Console,2/26/2018,United States,negative,3959
+K Console,2/26/2018,Australia,positive,134
+K Console,2/26/2018,United Kingdom,negative,148
+K Console,2/26/2018,Germany,positive,781
+K Console,2/26/2018,United States,unassigned,
+K Console,3/5/2018,Australia,neutral,1464
+K Console,3/5/2018,Germany,positive,1684
+K Console,3/5/2018,United Kingdom,negative,620
+K Console,3/5/2018,Australia,negative,108
+K Console,3/5/2018,United States,unassigned,1862
+K Console,3/5/2018,United Kingdom,unassigned,99
+K Console,3/5/2018,Australia,unassigned,19
+K Console,3/5/2018,United Kingdom,neutral,9725
+K Console,3/5/2018,United States,positive,10618
+K Console,3/5/2018,Germany,negative,664
+K Console,3/5/2018,United States,neutral,53806
+K Console,3/5/2018,Australia,positive,264
+K Console,3/5/2018,United States,negative,6481
+K Console,3/5/2018,Germany,neutral,2003
+K Console,3/5/2018,United Kingdom,positive,
+K Console,3/5/2018,Germany,unassigned,
+K Console,3/12/2018,Germany,unassigned,49
+K Console,3/12/2018,United Kingdom,unassigned,123
+K Console,3/12/2018,Germany,positive,1554
+K Console,3/12/2018,Germany,neutral,1928
+K Console,3/12/2018,United Kingdom,negative,601
+K Console,3/12/2018,United States,neutral,42395
+K Console,3/12/2018,United States,positive,9236
+K Console,3/12/2018,Australia,neutral,1550
+K Console,3/12/2018,Australia,positive,348
+K Console,3/12/2018,United States,unassigned,1347
+K Console,3/12/2018,United Kingdom,positive,1973
+K Console,3/12/2018,Australia,unassigned,85
+K Console,3/12/2018,Germany,negative,459
+K Console,3/12/2018,United States,negative,4102
+K Console,3/12/2018,United Kingdom,neutral,
+K Console,3/12/2018,Australia,negative,
+K Console,3/19/2018,Australia,neutral,1508
+K Console,3/19/2018,United States,negative,4116
+K Console,3/19/2018,United States,positive,8721
+K Console,3/19/2018,United Kingdom,unassigned,135
+K Console,3/19/2018,Australia,unassigned,34
+K Console,3/19/2018,Australia,negative,107
+K Console,3/19/2018,Germany,positive,1583
+K Console,3/19/2018,Germany,unassigned,65
+K Console,3/19/2018,United Kingdom,positive,1742
+K Console,3/19/2018,United Kingdom,negative,655
+K Console,3/19/2018,Germany,neutral,2184
+K Console,3/19/2018,Australia,positive,279
+K Console,3/19/2018,United States,neutral,
+K Console,3/19/2018,United Kingdom,neutral,
+K Console,3/19/2018,Germany,negative,
+K Console,3/19/2018,United States,unassigned,
+K Console,3/26/2018,Germany,positive,166
+K Console,3/26/2018,Germany,unassigned,59
+K Console,3/26/2018,United States,positive,617
+K Console,3/26/2018,Australia,positive,22
+K Console,3/26/2018,United Kingdom,negative,459
+K Console,3/26/2018,Australia,negative,106
+K Console,3/26/2018,Australia,negative,8
+K Console,3/26/2018,Germany,neutral,1953
+K Console,3/26/2018,Australia,neutral,1176
+K Console,3/26/2018,United Kingdom,unassigned,99
+K Console,3/26/2018,United States,positive,5781
+K Console,3/26/2018,Australia,unassigned,2
+K Console,3/26/2018,United States,unassigned,987
+K Console,3/26/2018,United Kingdom,negative,222
+K Console,3/26/2018,United Kingdom,positive,1832
+K Console,3/26/2018,Germany,unassigned,9
+K Console,3/26/2018,United Kingdom,positive,328
+K Console,3/26/2018,United States,negative,3313
+K Console,3/26/2018,Australia,neutral,152
+K Console,3/26/2018,United States,neutral,28378
+K Console,3/26/2018,United Kingdom,unassigned,82
+K Console,3/26/2018,Germany,negative,533
+K Console,3/26/2018,United Kingdom,neutral,1513
+K Console,3/26/2018,Germany,negative,86
+K Console,3/26/2018,Germany,neutral,204
+K Console,3/26/2018,Australia,positive,223
+K Console,3/26/2018,United States,unassigned,
+K Console,3/26/2018,United Kingdom,neutral,
+K Console,3/26/2018,Australia,unassigned,
+K Console,3/26/2018,United States,negative,
+K Console,3/26/2018,United States,neutral,
+K Console,3/26/2018,Germany,positive,
+K Console,4/2/2018,United States,positive,10886
+K Console,4/2/2018,Germany,unassigned,62
+K Console,4/2/2018,United Kingdom,neutral,11002
+K Console,4/2/2018,United Kingdom,positive,1846
+K Console,4/2/2018,Australia,unassigned,24
+K Console,4/2/2018,United States,neutral,54952
+K Console,4/2/2018,United Kingdom,unassigned,132
+K Console,4/2/2018,Germany,negative,457
+K Console,4/2/2018,United States,negative,4190
+K Console,4/2/2018,Australia,neutral,1470
+K Console,4/2/2018,Australia,positive,305
+K Console,4/2/2018,United Kingdom,negative,567
+K Console,4/2/2018,Germany,neutral,2526
+K Console,4/2/2018,United States,unassigned,2901
+K Console,4/2/2018,Germany,positive,1376
+K Console,4/2/2018,Australia,negative,
+K Console,4/9/2018,United States,negative,5206
+K Console,4/9/2018,United Kingdom,neutral,8338
+K Console,4/9/2018,United States,neutral,38213
+K Console,4/9/2018,Germany,negative,547
+K Console,4/9/2018,Australia,negative,130
+K Console,4/9/2018,Australia,positive,282
+K Console,4/9/2018,Germany,positive,1435
+K Console,4/9/2018,United Kingdom,unassigned,144
+K Console,4/9/2018,Germany,neutral,2062
+K Console,4/9/2018,Australia,neutral,1405
+K Console,4/9/2018,Germany,unassigned,95
+K Console,4/9/2018,United States,unassigned,1613
+K Console,4/9/2018,United Kingdom,positive,1569
+K Console,4/9/2018,Australia,unassigned,25
+K Console,4/9/2018,United Kingdom,negative,646
+K Console,4/9/2018,United States,positive,
+K Console,4/16/2018,Germany,unassigned,74
+K Console,4/16/2018,United Kingdom,neutral,9317
+K Console,4/16/2018,Germany,negative,591
+K Console,4/16/2018,United States,positive,8603
+K Console,4/16/2018,United Kingdom,unassigned,111
+K Console,4/16/2018,Australia,positive,331
+K Console,4/16/2018,Australia,unassigned,15
+K Console,4/16/2018,Germany,positive,1391
+K Console,4/16/2018,United States,unassigned,1229
+K Console,4/16/2018,Australia,negative,147
+K Console,4/16/2018,United Kingdom,positive,1610
+K Console,4/16/2018,Germany,neutral,1718
+K Console,4/16/2018,United States,neutral,39043
+K Console,4/16/2018,United States,negative,4789
+K Console,4/16/2018,Australia,neutral,
+K Console,4/16/2018,United Kingdom,negative,
+K Console,4/23/2018,Australia,negative,122
+K Console,4/23/2018,United States,unassigned,1724
+K Console,4/23/2018,United States,neutral,38343
+K Console,4/23/2018,United Kingdom,unassigned,91
+K Console,4/23/2018,United States,negative,4094
+K Console,4/23/2018,United Kingdom,neutral,9312
+K Console,4/23/2018,Germany,unassigned,59
+K Console,4/23/2018,United Kingdom,positive,1662
+K Console,4/23/2018,Australia,neutral,1431
+K Console,4/23/2018,Australia,positive,284
+K Console,4/23/2018,Germany,neutral,1768
+K Console,4/23/2018,United Kingdom,negative,544
+K Console,4/23/2018,Germany,positive,1669
+K Console,4/23/2018,Australia,unassigned,22
+K Console,4/23/2018,Germany,negative,494
+K Console,4/23/2018,United States,positive,8257
+K Console,4/30/2018,United States,neutral,705
+K Console,4/30/2018,Germany,positive,5
+K Console,4/30/2018,Australia,neutral,16
+K Console,4/30/2018,Australia,unassigned,1
+K Console,4/30/2018,Australia,negative,1
+K Console,4/30/2018,United States,neutral,26860
+K Console,4/30/2018,Australia,neutral,864
+K Console,4/30/2018,Germany,negative,0
+K Console,4/30/2018,United Kingdom,neutral,54
+K Console,4/30/2018,Australia,negative,79
+K Console,4/30/2018,United Kingdom,positive,1327
+K Console,4/30/2018,Australia,positive,4
+K Console,4/30/2018,United Kingdom,positive,12
+K Console,4/30/2018,United Kingdom,neutral,6059
+K Console,4/30/2018,United States,positive,152
+K Console,4/30/2018,Australia,unassigned,7
+K Console,4/30/2018,United Kingdom,unassigned,95
+K Console,4/30/2018,Germany,negative,444
+K Console,4/30/2018,United States,unassigned,850
+K Console,4/30/2018,Germany,positive,1131
+K Console,4/30/2018,United States,negative,59
+K Console,4/30/2018,Australia,positive,180
+K Console,4/30/2018,Germany,unassigned,39
+K Console,4/30/2018,United States,negative,4021
+K Console,4/30/2018,United States,unassigned,45
+K Console,4/30/2018,United States,positive,6117
+K Console,4/30/2018,United Kingdom,negative,668
+K Console,4/30/2018,Germany,neutral,
+K Console,4/30/2018,Germany,neutral,
+K Console,5/7/2018,Australia,neutral,1223
+K Console,5/7/2018,Australia,positive,207
+K Console,5/7/2018,United States,positive,6658
+K Console,5/7/2018,United States,neutral,36819
+K Console,5/7/2018,Germany,negative,489
+K Console,5/7/2018,Germany,unassigned,63
+K Console,5/7/2018,Australia,unassigned,21
+K Console,5/7/2018,United Kingdom,positive,1320
+K Console,5/7/2018,United States,negative,3838
+K Console,5/7/2018,Germany,neutral,1796
+K Console,5/7/2018,Australia,negative,79
+K Console,5/7/2018,United Kingdom,neutral,7886
+K Console,5/7/2018,United Kingdom,unassigned,69
+K Console,5/7/2018,United States,unassigned,906
+K Console,5/7/2018,United Kingdom,negative,495
+K Console,5/7/2018,Germany,positive,
+K Console,5/14/2018,Germany,unassigned,54
+K Console,5/14/2018,Australia,unassigned,24
+K Console,5/14/2018,United Kingdom,positive,1830
+K Console,5/14/2018,United Kingdom,negative,497
+K Console,5/14/2018,United States,unassigned,905
+K Console,5/14/2018,Germany,neutral,1687
+K Console,5/14/2018,United Kingdom,neutral,6220
+K Console,5/14/2018,Australia,neutral,1170
+K Console,5/14/2018,Germany,positive,1538
+K Console,5/14/2018,United States,positive,7213
+K Console,5/14/2018,United States,neutral,35516
+K Console,5/14/2018,Australia,negative,91
+K Console,5/14/2018,United Kingdom,unassigned,54
+K Console,5/14/2018,Australia,positive,239
+K Console,5/14/2018,United States,negative,3819
+K Console,5/14/2018,Germany,negative,451
+K Console,5/21/2018,United Kingdom,positive,1793
+K Console,5/21/2018,Australia,positive,289
+K Console,5/21/2018,United States,positive,8145
+K Console,5/21/2018,United Kingdom,neutral,8206
+K Console,5/21/2018,Australia,unassigned,34
+K Console,5/21/2018,United Kingdom,negative,748
+K Console,5/21/2018,Germany,negative,678
+K Console,5/21/2018,United Kingdom,unassigned,494
+K Console,5/21/2018,United States,negative,4168
+K Console,5/21/2018,Germany,positive,1494
+K Console,5/21/2018,Germany,neutral,2691
+K Console,5/21/2018,Germany,unassigned,
+K Console,5/21/2018,United States,neutral,
+K Console,5/21/2018,United States,unassigned,
+K Console,5/21/2018,Australia,neutral,
+K Console,5/21/2018,Australia,negative,
+K Console,5/28/2018,Australia,neutral,680
+K Console,5/28/2018,Germany,positive,672
+K Console,5/28/2018,United Kingdom,unassigned,27
+K Console,5/28/2018,United Kingdom,neutral,2286
+K Console,5/28/2018,United States,positive,3284
+K Console,5/28/2018,Germany,unassigned,14
+K Console,5/28/2018,United Kingdom,positive,582
+K Console,5/28/2018,Australia,negative,323
+K Console,5/28/2018,United Kingdom,negative,186
+K Console,5/28/2018,Australia,neutral,381
+K Console,5/28/2018,Australia,unassigned,24
+K Console,5/28/2018,United Kingdom,negative,1124
+K Console,5/28/2018,United States,negative,18474
+K Console,5/28/2018,United States,positive,2541
+K Console,5/28/2018,United States,neutral,16766
+K Console,5/28/2018,Germany,negative,166
+K Console,5/28/2018,United Kingdom,neutral,3006
+K Console,5/28/2018,Germany,neutral,784
+K Console,5/28/2018,Germany,neutral,648
+K Console,5/28/2018,United Kingdom,positive,698
+K Console,5/28/2018,United States,negative,1307
+K Console,5/28/2018,Australia,unassigned,14
+K Console,5/28/2018,United States,unassigned,304
+K Console,5/28/2018,Germany,unassigned,16
+K Console,5/28/2018,United States,neutral,11714
+K Console,5/28/2018,Australia,positive,80
+K Console,5/28/2018,Australia,negative,36
+K Console,5/28/2018,United States,unassigned,425
+K Console,5/28/2018,Australia,positive,
+K Console,5/28/2018,Germany,positive,
+K Console,5/28/2018,United Kingdom,unassigned,
+K Console,5/28/2018,Germany,negative,
+K Console,6/4/2018,United States,negative,4327
+K Console,6/4/2018,Australia,negative,112
+K Console,6/4/2018,Australia,positive,302
+K Console,6/4/2018,Germany,unassigned,39
+K Console,6/4/2018,United States,neutral,52867
+K Console,6/4/2018,Australia,unassigned,31
+K Console,6/4/2018,Germany,negative,640
+K Console,6/4/2018,Australia,neutral,2000
+K Console,6/4/2018,United Kingdom,neutral,11283
+K Console,6/4/2018,United States,unassigned,1041
+K Console,6/4/2018,United Kingdom,unassigned,83
+K Console,6/4/2018,United States,positive,8498
+K Console,6/4/2018,Germany,positive,1844
+K Console,6/4/2018,United Kingdom,negative,696
+K Console,6/4/2018,Germany,neutral,2586
+K Console,6/4/2018,United Kingdom,positive,1849
+K Console,6/11/2018,United States,unassigned,2002
+K Console,6/11/2018,United Kingdom,unassigned,110
+K Console,6/11/2018,Australia,neutral,1960
+K Console,6/11/2018,Australia,positive,473
+K Console,6/11/2018,Germany,positive,2167
+K Console,6/11/2018,United Kingdom,positive,2133
+K Console,6/11/2018,Germany,unassigned,41
+K Console,6/11/2018,Germany,negative,667
+K Console,6/11/2018,United States,negative,6863
+K Console,6/11/2018,Australia,unassigned,26
+K Console,6/11/2018,Australia,negative,153
+K Console,6/11/2018,United Kingdom,negative,852
+K Console,6/11/2018,Germany,neutral,
+K Console,6/11/2018,United Kingdom,neutral,
+K Console,6/11/2018,United States,neutral,
+K Console,6/11/2018,United States,positive,
+K Console,6/18/2018,Germany,unassigned,49
+K Console,6/18/2018,United States,positive,8262
+K Console,6/18/2018,United Kingdom,neutral,5559
+K Console,6/18/2018,United Kingdom,unassigned,102
+K Console,6/18/2018,Germany,negative,500
+K Console,6/18/2018,United States,neutral,36055
+K Console,6/18/2018,Australia,neutral,922
+K Console,6/18/2018,United Kingdom,positive,1571
+K Console,6/18/2018,Australia,positive,236
+K Console,6/18/2018,United States,unassigned,937
+K Console,6/18/2018,United States,negative,4465
+K Console,6/18/2018,Germany,positive,1395
+K Console,6/18/2018,Australia,unassigned,30
+K Console,6/18/2018,Germany,neutral,1530
+K Console,6/18/2018,Australia,negative,
+K Console,6/18/2018,United Kingdom,negative,
+K Console,6/25/2018,Germany,neutral,125
+K Console,6/25/2018,Germany,unassigned,14
+K Console,6/25/2018,United Kingdom,negative,60
+K Console,6/25/2018,Germany,negative,44
+K Console,6/25/2018,Germany,neutral,1208
+K Console,6/25/2018,United Kingdom,unassigned,8
+K Console,6/25/2018,United States,neutral,20450
+K Console,6/25/2018,United States,unassigned,587
+K Console,6/25/2018,Germany,positive,101
+K Console,6/25/2018,United States,unassigned,85
+K Console,6/25/2018,United Kingdom,positive,114
+K Console,6/25/2018,United States,negative,432
+K Console,6/25/2018,United Kingdom,neutral,4010
+K Console,6/25/2018,Australia,unassigned,6
+K Console,6/25/2018,Germany,unassigned,24
+K Console,6/25/2018,United States,neutral,3089
+K Console,6/25/2018,Australia,positive,12
+K Console,6/25/2018,United States,negative,2204
+K Console,6/25/2018,Australia,negative,9
+K Console,6/25/2018,Australia,neutral,685
+K Console,6/25/2018,United States,positive,600
+K Console,6/25/2018,United Kingdom,negative,377
+K Console,6/25/2018,Australia,positive,167
+K Console,6/25/2018,Germany,negative,290
+K Console,6/25/2018,United Kingdom,unassigned,68
+K Console,6/25/2018,Australia,negative,48
+K Console,6/25/2018,United Kingdom,neutral,666
+K Console,6/25/2018,United Kingdom,positive,885
+K Console,6/25/2018,United States,positive,4163
+K Console,6/25/2018,Germany,positive,
+K Console,6/25/2018,Australia,neutral,
+K Console,7/2/2018,United Kingdom,neutral,6159
+K Console,7/2/2018,United Kingdom,negative,717
+K Console,7/2/2018,United States,neutral,32430
+K Console,7/2/2018,United States,negative,3924
+K Console,7/2/2018,United Kingdom,positive,1718
+K Console,7/2/2018,Australia,positive,186
+K Console,7/2/2018,Germany,unassigned,20
+K Console,7/2/2018,Australia,neutral,986
+K Console,7/2/2018,Germany,positive,1207
+K Console,7/2/2018,United Kingdom,unassigned,1038
+K Console,7/2/2018,United States,positive,6640
+K Console,7/2/2018,Australia,unassigned,16
+K Console,7/2/2018,United States,unassigned,799
+K Console,7/2/2018,Germany,negative,413
+K Console,7/2/2018,Germany,neutral,1290
+K Console,7/2/2018,Australia,negative,108
+K Console,7/9/2018,United States,negative,4143
+K Console,7/9/2018,United Kingdom,negative,610
+K Console,7/9/2018,Australia,negative,112
+K Console,7/9/2018,United States,unassigned,744
+K Console,7/9/2018,Germany,neutral,1391
+K Console,7/9/2018,United States,neutral,35317
+K Console,7/9/2018,Australia,positive,221
+K Console,7/9/2018,United Kingdom,unassigned,90
+K Console,7/9/2018,United Kingdom,neutral,6050
+K Console,7/9/2018,Germany,negative,400
+K Console,7/9/2018,Australia,unassigned,25
+K Console,7/9/2018,United Kingdom,positive,1670
+K Console,7/9/2018,Australia,neutral,1103
+K Console,7/9/2018,Germany,unassigned,21
+K Console,7/9/2018,Germany,positive,
+K Console,7/9/2018,United States,positive,
+K Console,7/16/2018,United Kingdom,negative,468
+K Console,7/16/2018,United Kingdom,neutral,7840
+K Console,7/16/2018,Germany,negative,345
+K Console,7/16/2018,United States,negative,3554
+K Console,7/16/2018,United States,positive,6814
+K Console,7/16/2018,Germany,unassigned,18
+K Console,7/16/2018,Australia,positive,248
+K Console,7/16/2018,Australia,neutral,1835
+K Console,7/16/2018,Australia,unassigned,16
+K Console,7/16/2018,United Kingdom,unassigned,88
+K Console,7/16/2018,Australia,negative,95
+K Console,7/16/2018,Germany,positive,1314
+K Console,7/16/2018,United Kingdom,positive,
+K Console,7/16/2018,United States,neutral,
+K Console,7/16/2018,United States,unassigned,
+K Console,7/16/2018,Germany,neutral,
+K Console,7/23/2018,United Kingdom,negative,593
+K Console,7/23/2018,United States,positive,7040
+K Console,7/23/2018,Germany,unassigned,21
+K Console,7/23/2018,Germany,negative,440
+K Console,7/23/2018,United States,neutral,65668
+K Console,7/23/2018,Australia,neutral,1773
+K Console,7/23/2018,Australia,positive,220
+K Console,7/23/2018,Germany,positive,1427
+K Console,7/23/2018,Australia,unassigned,11
+K Console,7/23/2018,Germany,neutral,1897
+K Console,7/23/2018,United Kingdom,unassigned,73
+K Console,7/23/2018,United Kingdom,positive,1392
+K Console,7/23/2018,United States,unassigned,1042
+K Console,7/23/2018,United Kingdom,neutral,8132
+K Console,7/23/2018,Australia,negative,
+K Console,7/23/2018,United States,negative,
+K Console,7/30/2018,Australia,positive,68
+K Console,7/30/2018,United Kingdom,negative,456
+K Console,7/30/2018,Australia,neutral,260
+K Console,7/30/2018,United Kingdom,unassigned,15
+K Console,7/30/2018,Germany,unassigned,1
+K Console,7/30/2018,Germany,unassigned,14
+K Console,7/30/2018,Germany,positive,201
+K Console,7/30/2018,United Kingdom,neutral,1257
+K Console,7/30/2018,United Kingdom,unassigned,59
+K Console,7/30/2018,Australia,positive,190
+K Console,7/30/2018,Germany,positive,947
+K Console,7/30/2018,Germany,neutral,233
+K Console,7/30/2018,Germany,negative,282
+K Console,7/30/2018,United States,negative,2848
+K Console,7/30/2018,Australia,negative,10
+K Console,7/30/2018,Australia,unassigned,15
+K Console,7/30/2018,United States,positive,1307
+K Console,7/30/2018,United States,negative,645
+K Console,7/30/2018,United States,unassigned,674
+K Console,7/30/2018,United States,unassigned,140
+K Console,7/30/2018,United Kingdom,positive,1146
+K Console,7/30/2018,United States,neutral,6073
+K Console,7/30/2018,United Kingdom,neutral,6602
+K Console,7/30/2018,Germany,neutral,1324
+K Console,7/30/2018,Australia,negative,54
+K Console,7/30/2018,Germany,negative,50
+K Console,7/30/2018,Australia,neutral,1129
+K Console,7/30/2018,United Kingdom,positive,330
+K Console,7/30/2018,Australia,unassigned,19
+K Console,7/30/2018,United Kingdom,negative,94
+K Console,7/30/2018,United States,positive,
+K Console,7/30/2018,United States,neutral,
+K Console,8/6/2018,Germany,unassigned,34
+K Console,8/6/2018,United Kingdom,negative,586
+K Console,8/6/2018,United States,neutral,56524
+K Console,8/6/2018,Australia,neutral,1662
+K Console,8/6/2018,Australia,negative,111
+K Console,8/6/2018,Germany,positive,1590
+K Console,8/6/2018,United Kingdom,positive,1975
+K Console,8/6/2018,United Kingdom,unassigned,105
+K Console,8/6/2018,Germany,neutral,1957
+K Console,8/6/2018,United States,positive,11359
+K Console,8/6/2018,Australia,positive,285
+K Console,8/6/2018,Germany,negative,422
+K Console,8/6/2018,United Kingdom,neutral,9141
+K Console,8/6/2018,Australia,unassigned,25
+K Console,8/6/2018,United States,unassigned,
+K Console,8/6/2018,United States,negative,
+K Console,8/13/2018,United Kingdom,unassigned,65
+K Console,8/13/2018,United States,neutral,42123
+K Console,8/13/2018,Australia,unassigned,17
+K Console,8/13/2018,United States,unassigned,875
+K Console,8/13/2018,Germany,negative,475
+K Console,8/13/2018,Australia,positive,221
+K Console,8/13/2018,Germany,positive,1470
+K Console,8/13/2018,Germany,unassigned,24
+K Console,8/13/2018,United Kingdom,neutral,8754
+K Console,8/13/2018,Germany,neutral,1761
+K Console,8/13/2018,United Kingdom,negative,491
+K Console,8/13/2018,United Kingdom,positive,1574
+K Console,8/13/2018,United States,positive,7876
+K Console,8/13/2018,Australia,negative,
+K Console,8/13/2018,Australia,neutral,
+K Console,8/13/2018,United States,negative,
+K Console,8/20/2018,United States,neutral,50543
+K Console,8/20/2018,United Kingdom,positive,1403
+K Console,8/20/2018,United States,unassigned,969
+K Console,8/20/2018,United Kingdom,unassigned,98
+K Console,8/20/2018,Australia,positive,232
+K Console,8/20/2018,Germany,neutral,2257
+K Console,8/20/2018,United Kingdom,negative,538
+K Console,8/20/2018,Australia,unassigned,16
+K Console,8/20/2018,United Kingdom,neutral,9036
+K Console,8/20/2018,Germany,unassigned,23
+K Console,8/20/2018,Germany,positive,2195
+K Console,8/20/2018,United States,negative,4356
+K Console,8/20/2018,Germany,negative,508
+K Console,8/20/2018,Australia,neutral,
+K Console,8/20/2018,United States,positive,
+K Console,8/20/2018,Australia,negative,
+K Console,8/27/2018,United States,unassigned,808
+K Console,8/27/2018,Australia,unassigned,6
+K Console,8/27/2018,United Kingdom,negative,172
+K Console,8/27/2018,United Kingdom,neutral,5808
+K Console,8/27/2018,United Kingdom,positive,1160
+K Console,8/27/2018,United States,positive,6241
+K Console,8/27/2018,United Kingdom,unassigned,23
+K Console,8/27/2018,Australia,neutral,1117
+K Console,8/27/2018,United States,negative,2963
+K Console,8/27/2018,Germany,neutral,1379
+K Console,8/27/2018,United States,neutral,32285
+K Console,8/27/2018,United States,unassigned,281
+K Console,8/27/2018,Germany,negative,369
+K Console,8/27/2018,United Kingdom,unassigned,66
+K Console,8/27/2018,Germany,neutral,425
+K Console,8/27/2018,Australia,positive,65
+K Console,8/27/2018,Australia,negative,24
+K Console,8/27/2018,United Kingdom,negative,353
+K Console,8/27/2018,Germany,negative,115
+K Console,8/27/2018,Germany,positive,1185
+K Console,8/27/2018,Australia,positive,199
+K Console,8/27/2018,Germany,unassigned,13
+K Console,8/27/2018,United States,negative,1450
+K Console,8/27/2018,United Kingdom,neutral,1939
+K Console,8/27/2018,United Kingdom,positive,611
+K Console,8/27/2018,Australia,negative,65
+K Console,8/27/2018,Germany,positive,325
+K Console,8/27/2018,United States,neutral,10980
+K Console,8/27/2018,United States,positive,2339
+K Console,8/27/2018,Australia,neutral,329
+K Console,8/27/2018,Germany,unassigned,9
+K Console,8/27/2018,Australia,unassigned,11
+K Console,9/3/2018,United Kingdom,negative,770
+K Console,9/3/2018,United Kingdom,neutral,11824
+K Console,9/3/2018,United Kingdom,positive,2324
+K Console,9/3/2018,United States,unassigned,1871
+K Console,9/3/2018,Germany,negative,677
+K Console,9/3/2018,Germany,unassigned,38
+K Console,9/3/2018,United States,positive,12507
+K Console,9/3/2018,United States,neutral,59701
+K Console,9/3/2018,Germany,neutral,2535
+K Console,9/3/2018,Australia,positive,389
+K Console,9/3/2018,Australia,unassigned,33
+K Console,9/3/2018,United States,negative,5517
+K Console,9/3/2018,Australia,neutral,2030
+K Console,9/3/2018,Australia,negative,158
+K Console,9/3/2018,United Kingdom,unassigned,154
+K Console,9/3/2018,Germany,positive,
+K Console,9/10/2018,Australia,neutral,1929
+K Console,9/10/2018,United Kingdom,neutral,9426
+K Console,9/10/2018,United States,positive,10835
+K Console,9/10/2018,Germany,neutral,2429
+K Console,9/10/2018,Germany,negative,513
+K Console,9/10/2018,Australia,negative,136
+K Console,9/10/2018,Germany,unassigned,31
+K Console,9/10/2018,United Kingdom,negative,753
+K Console,9/10/2018,United States,unassigned,1463
+K Console,9/10/2018,United States,neutral,49556
+K Console,9/10/2018,Australia,unassigned,45
+K Console,9/10/2018,United Kingdom,unassigned,127
+K Console,9/10/2018,United Kingdom,positive,2248
+K Console,9/10/2018,Germany,positive,2266
+K Console,9/10/2018,Australia,positive,
+K Console,9/10/2018,United States,negative,
+K Console,9/17/2018,Germany,negative,598
+K Console,9/17/2018,Australia,neutral,2248
+K Console,9/17/2018,Germany,unassigned,92
+K Console,9/17/2018,United Kingdom,neutral,13119
+K Console,9/17/2018,United States,negative,5650
+K Console,9/17/2018,United States,positive,11707
+K Console,9/17/2018,Australia,negative,173
+K Console,9/17/2018,Australia,positive,381
+K Console,9/17/2018,United Kingdom,negative,726
+K Console,9/17/2018,Germany,neutral,3320
+K Console,9/17/2018,United Kingdom,unassigned,149
+K Console,9/17/2018,Australia,unassigned,39
+K Console,9/17/2018,Germany,positive,2525
+K Console,9/17/2018,United States,neutral,63050
+K Console,9/17/2018,United Kingdom,positive,1953
+K Console,9/17/2018,United States,unassigned,
+K Console,9/24/2018,Germany,unassigned,31
+K Console,9/24/2018,Germany,negative,511
+K Console,9/24/2018,United States,negative,4682
+K Console,9/24/2018,United States,unassigned,981
+K Console,9/24/2018,Australia,positive,251
+K Console,9/24/2018,United Kingdom,positive,2198
+K Console,9/24/2018,United Kingdom,unassigned,114
+K Console,9/24/2018,United States,positive,8575
+K Console,9/24/2018,United States,neutral,48999
+K Console,9/24/2018,Australia,negative,125
+K Console,9/24/2018,United Kingdom,neutral,11196
+K Console,9/24/2018,Germany,neutral,2350
+K Console,9/24/2018,United Kingdom,negative,572
+K Console,9/24/2018,Germany,positive,1881
+K Console,9/24/2018,Australia,unassigned,
+K Console,9/24/2018,Australia,neutral,
+K Console,10/1/2018,Australia,unassigned,20
+K Console,10/1/2018,United Kingdom,unassigned,67
+K Console,10/1/2018,Australia,neutral,1683
+K Console,10/1/2018,Germany,positive,1521
+K Console,10/1/2018,United Kingdom,neutral,8228
+K Console,10/1/2018,Australia,negative,111
+K Console,10/1/2018,United Kingdom,negative,604
+K Console,10/1/2018,United States,unassigned,1088
+K Console,10/1/2018,Germany,neutral,1879
+K Console,10/1/2018,United Kingdom,positive,1503
+K Console,10/1/2018,Germany,unassigned,34
+K Console,10/1/2018,Australia,positive,292
+K Console,10/1/2018,United States,positive,7322
+K Console,10/1/2018,United States,neutral,
+K Console,10/1/2018,United States,negative,
+K Console,10/1/2018,Germany,negative,
+K Console,10/8/2018,United States,negative,4579
+K Console,10/8/2018,United Kingdom,negative,661
+K Console,10/8/2018,United States,positive,8535
+K Console,10/8/2018,Australia,positive,337
+K Console,10/8/2018,United Kingdom,unassigned,100
+K Console,10/8/2018,Australia,negative,156
+K Console,10/8/2018,United Kingdom,neutral,11580
+K Console,10/8/2018,Germany,negative,516
+K Console,10/8/2018,Australia,unassigned,32
+K Console,10/8/2018,United States,neutral,49766
+K Console,10/8/2018,United States,unassigned,1465
+K Console,10/8/2018,United Kingdom,positive,1811
+K Console,10/8/2018,Germany,positive,1770
+K Console,10/8/2018,Germany,neutral,
+K Console,10/8/2018,Australia,neutral,
+K Console,10/8/2018,Germany,unassigned,
+K Console,10/15/2018,Germany,positive,1949
+K Console,10/15/2018,Australia,negative,178
+K Console,10/15/2018,Australia,unassigned,10
+K Console,10/15/2018,United Kingdom,unassigned,105
+K Console,10/15/2018,United States,neutral,51522
+K Console,10/15/2018,United States,negative,4671
+K Console,10/15/2018,Australia,neutral,2149
+K Console,10/15/2018,United Kingdom,negative,762
+K Console,10/15/2018,Germany,neutral,2225
+K Console,10/15/2018,United Kingdom,neutral,11939
+K Console,10/15/2018,United States,unassigned,2187
+K Console,10/15/2018,Germany,unassigned,36
+K Console,10/15/2018,United States,positive,9691
+K Console,10/15/2018,Australia,positive,
+K Console,10/15/2018,United Kingdom,positive,
+K Console,10/15/2018,Germany,negative,
+K Console,10/22/2018,Australia,neutral,2081
+K Console,10/22/2018,United Kingdom,neutral,11226
+K Console,10/22/2018,United States,negative,6206
+K Console,10/22/2018,United Kingdom,unassigned,80
+K Console,10/22/2018,Australia,unassigned,19
+K Console,10/22/2018,United Kingdom,positive,1985
+K Console,10/22/2018,Germany,positive,1861
+K Console,10/22/2018,Australia,positive,329
+K Console,10/22/2018,Germany,negative,563
+K Console,10/22/2018,Germany,neutral,2680
+K Console,10/22/2018,United States,positive,9917
+K Console,10/22/2018,Australia,negative,174
+K Console,10/22/2018,Germany,unassigned,33
+K Console,10/22/2018,United Kingdom,negative,933
+K Console,10/22/2018,United States,unassigned,2200
+K Console,10/22/2018,United States,neutral,51497
+K Console,10/29/2018,United Kingdom,negative,319
+K Console,10/29/2018,United States,neutral,18883
+K Console,10/29/2018,Germany,positive,894
+K Console,10/29/2018,Australia,negative,54
+K Console,10/29/2018,United States,negative,2440
+K Console,10/29/2018,Germany,neutral,1185
+K Console,10/29/2018,Germany,negative,210
+K Console,10/29/2018,Australia,positive,122
+K Console,10/29/2018,United Kingdom,negative,299
+K Console,10/29/2018,Germany,negative,279
+K Console,10/29/2018,Australia,neutral,555
+K Console,10/29/2018,United Kingdom,neutral,5713
+K Console,10/29/2018,United Kingdom,positive,546
+K Console,10/29/2018,Australia,positive,125
+K Console,10/29/2018,Australia,negative,54
+K Console,10/29/2018,Germany,neutral,709
+K Console,10/29/2018,Germany,positive,747
+K Console,10/29/2018,United States,positive,3061
+K Console,10/29/2018,United States,neutral,16531
+K Console,10/29/2018,Australia,unassigned,11
+K Console,10/29/2018,United Kingdom,neutral,2930
+K Console,10/29/2018,Australia,neutral,534
+K Console,10/29/2018,United States,unassigned,443
+K Console,10/29/2018,United Kingdom,unassigned,41
+K Console,10/29/2018,United States,positive,4104
+K Console,10/29/2018,Australia,unassigned,11
+K Console,10/29/2018,United States,unassigned,552
+K Console,10/29/2018,United Kingdom,positive,
+K Console,10/29/2018,United States,negative,
+K Console,10/29/2018,United Kingdom,unassigned,
+K Console,10/29/2018,Germany,unassigned,
+K Console,10/29/2018,Germany,unassigned,
+K Console,11/5/2018,United Kingdom,unassigned,76
+K Console,11/5/2018,United States,neutral,39208
+K Console,11/5/2018,Australia,positive,251
+K Console,11/5/2018,United States,unassigned,976
+K Console,11/5/2018,United States,negative,4576
+K Console,11/5/2018,Australia,unassigned,18
+K Console,11/5/2018,Germany,unassigned,17
+K Console,11/5/2018,United Kingdom,positive,1376
+K Console,11/5/2018,Australia,negative,129
+K Console,11/5/2018,United Kingdom,negative,651
+K Console,11/5/2018,Germany,negative,493
+K Console,11/5/2018,Germany,neutral,1723
+K Console,11/5/2018,Germany,positive,1558
+K Console,11/5/2018,Australia,neutral,1177
+K Console,11/5/2018,United Kingdom,neutral,7139
+K Console,11/5/2018,United States,positive,
+K Console,11/12/2018,Australia,neutral,1294
+K Console,11/12/2018,United States,unassigned,1446
+K Console,11/12/2018,United Kingdom,unassigned,92
+K Console,11/12/2018,Germany,unassigned,28
+K Console,11/12/2018,Australia,unassigned,16
+K Console,11/12/2018,Germany,positive,1959
+K Console,11/12/2018,United Kingdom,neutral,9342
+K Console,11/12/2018,Germany,negative,525
+K Console,11/12/2018,Australia,negative,135
+K Console,11/12/2018,United States,neutral,47500
+K Console,11/12/2018,Australia,positive,301
+K Console,11/12/2018,United States,positive,9923
+K Console,11/12/2018,Germany,neutral,1927
+K Console,11/12/2018,United Kingdom,negative,747
+K Console,11/12/2018,United Kingdom,positive,1712
+K Console,11/12/2018,United States,negative,5324
+K Console,11/19/2018,Germany,unassigned,153
+K Console,11/19/2018,Australia,neutral,1926
+K Console,11/19/2018,United Kingdom,unassigned,1166
+K Console,11/19/2018,Germany,negative,605
+K Console,11/19/2018,Australia,unassigned,92
+K Console,11/19/2018,United States,unassigned,10151
+K Console,11/19/2018,United Kingdom,positive,1993
+K Console,11/19/2018,United Kingdom,negative,924
+K Console,11/19/2018,United Kingdom,neutral,11483
+K Console,11/19/2018,United States,negative,4562
+K Console,11/19/2018,Australia,positive,331
+K Console,11/19/2018,Australia,negative,172
+K Console,11/19/2018,United States,positive,8797
+K Console,11/19/2018,United States,neutral,42673
+K Console,11/19/2018,Germany,positive,2038
+K Console,11/19/2018,Germany,neutral,
+K Console,11/26/2018,United Kingdom,neutral,1845
+K Console,11/26/2018,United Kingdom,negative,521
+K Console,11/26/2018,United Kingdom,unassigned,27
+K Console,11/26/2018,United Kingdom,unassigned,66
+K Console,11/26/2018,Australia,unassigned,9
+K Console,11/26/2018,United States,unassigned,271
+K Console,11/26/2018,Germany,negative,123
+K Console,11/26/2018,United States,neutral,27337
+K Console,11/26/2018,Germany,negative,359
+K Console,11/26/2018,Australia,negative,29
+K Console,11/26/2018,United States,positive,6961
+K Console,11/26/2018,United Kingdom,positive,983
+K Console,11/26/2018,Australia,neutral,372
+K Console,11/26/2018,United States,positive,1815
+K Console,11/26/2018,United States,unassigned,675
+K Console,11/26/2018,United States,negative,1081
+K Console,11/26/2018,Australia,positive,190
+K Console,11/26/2018,Australia,neutral,966
+K Console,11/26/2018,Germany,unassigned,10
+K Console,11/26/2018,United Kingdom,neutral,5669
+K Console,11/26/2018,United States,negative,3317
+K Console,11/26/2018,United Kingdom,negative,149
+K Console,11/26/2018,Australia,unassigned,8
+K Console,11/26/2018,Germany,positive,1140
+K Console,11/26/2018,Germany,positive,395
+K Console,11/26/2018,Germany,unassigned,15
+K Console,11/26/2018,Australia,positive,61
+K Console,11/26/2018,United States,neutral,9576
+K Console,11/26/2018,Germany,neutral,1060
+K Console,11/26/2018,Australia,negative,
+K Console,11/26/2018,United Kingdom,positive,
+K Console,11/26/2018,Germany,neutral,
+K Console,12/3/2018,Germany,negative,667
+K Console,12/3/2018,Germany,neutral,3133
+K Console,12/3/2018,United States,unassigned,2061
+K Console,12/3/2018,United States,neutral,49346
+K Console,12/3/2018,Germany,unassigned,31
+K Console,12/3/2018,United Kingdom,negative,999
+K Console,12/3/2018,United Kingdom,unassigned,69
+K Console,12/3/2018,Germany,positive,2076
+K Console,12/3/2018,United Kingdom,neutral,11065
+K Console,12/3/2018,United States,positive,10379
+K Console,12/3/2018,Australia,negative,175
+K Console,12/3/2018,United Kingdom,positive,1732
+K Console,12/3/2018,Australia,positive,354
+K Console,12/3/2018,Australia,unassigned,13
+K Console,12/3/2018,United States,negative,5706
+K Console,12/3/2018,Australia,neutral,1724
+K Console,12/10/2018,Australia,unassigned,31
+K Console,12/10/2018,United Kingdom,neutral,9289
+K Console,12/10/2018,Germany,unassigned,36
+K Console,12/10/2018,Germany,positive,1854
+K Console,12/10/2018,Germany,neutral,2186
+K Console,12/10/2018,Australia,neutral,1797
+K Console,12/10/2018,United Kingdom,unassigned,127
+K Console,12/10/2018,United States,negative,4209
+K Console,12/10/2018,United States,neutral,41043
+K Console,12/10/2018,United Kingdom,positive,2148
+K Console,12/10/2018,United States,positive,8816
+K Console,12/10/2018,Australia,negative,125
+K Console,12/10/2018,United Kingdom,negative,799
+K Console,12/10/2018,United States,unassigned,1120
+K Console,12/10/2018,Germany,negative,
+K Console,12/10/2018,Australia,positive,
+K Console,12/17/2018,Australia,positive,577
+K Console,12/17/2018,Germany,positive,2394
+K Console,12/17/2018,Germany,negative,873
+K Console,12/17/2018,United Kingdom,unassigned,111
+K Console,12/17/2018,United Kingdom,positive,1960
+K Console,12/17/2018,United Kingdom,negative,679
+K Console,12/17/2018,United States,unassigned,1108
+K Console,12/17/2018,United Kingdom,neutral,8317
+K Console,12/17/2018,United States,neutral,38443
+K Console,12/17/2018,Australia,unassigned,27
+K Console,12/17/2018,Australia,neutral,2838
+K Console,12/17/2018,Australia,negative,173
+K Console,12/17/2018,Germany,neutral,2919
+K Console,12/17/2018,United States,positive,10822
+K Console,12/17/2018,United States,negative,4059
+K Console,12/17/2018,Germany,unassigned,
+K Console,12/24/2018,Germany,negative,441
+K Console,12/24/2018,United States,unassigned,1065
+K Console,12/24/2018,Germany,positive,1249
+K Console,12/24/2018,United Kingdom,unassigned,178
+K Console,12/24/2018,Germany,unassigned,32
+K Console,12/24/2018,Australia,positive,245
+K Console,12/24/2018,United States,negative,3953
+K Console,12/24/2018,United States,neutral,38574
+K Console,12/24/2018,United Kingdom,negative,635
+K Console,12/24/2018,United States,positive,9047
+K Console,12/24/2018,Australia,negative,109
+K Console,12/24/2018,United Kingdom,neutral,8398
+K Console,12/24/2018,United Kingdom,positive,1419
+K Console,12/24/2018,Australia,unassigned,
+K Console,12/24/2018,Germany,neutral,
+K Console,12/24/2018,Australia,neutral,
+K Console,12/31/2018,United States,unassigned,47
+K Console,12/31/2018,United Kingdom,unassigned,83
+K Console,12/31/2018,United States,negative,105
+K Console,12/31/2018,Germany,neutral,1499
+K Console,12/31/2018,United Kingdom,unassigned,2
+K Console,12/31/2018,Australia,negative,99
+K Console,12/31/2018,United States,positive,270
+K Console,12/31/2018,Australia,negative,3
+K Console,12/31/2018,United States,unassigned,1987
+K Console,12/31/2018,United Kingdom,negative,471
+K Console,12/31/2018,Australia,unassigned,20
+K Console,12/31/2018,United Kingdom,positive,1210
+K Console,12/31/2018,Australia,positive,4
+K Console,12/31/2018,United Kingdom,positive,31
+K Console,12/31/2018,Germany,unassigned,1
+K Console,12/31/2018,Germany,negative,501
+K Console,12/31/2018,Germany,neutral,10
+K Console,12/31/2018,Germany,negative,4
+K Console,12/31/2018,United States,neutral,32089
+K Console,12/31/2018,United States,neutral,1157
+K Console,12/31/2018,Germany,unassigned,21
+K Console,12/31/2018,Germany,positive,12
+K Console,12/31/2018,Australia,positive,170
+K Console,12/31/2018,Australia,neutral,31
+K Console,12/31/2018,United States,positive,6822
+K Console,12/31/2018,United Kingdom,negative,3
+K Console,12/31/2018,United Kingdom,neutral,5102
+K Console,12/31/2018,Australia,neutral,
+K Console,12/31/2018,Germany,positive,
+K Console,12/31/2018,United States,negative,
+K Console,12/31/2018,United Kingdom,neutral,
+K Console,1/7/2019,Australia,positive,256
+K Console,1/7/2019,Germany,negative,550
+K Console,1/7/2019,United Kingdom,neutral,6800
+K Console,1/7/2019,United Kingdom,positive,1471
+K Console,1/7/2019,Germany,neutral,1706
+K Console,1/7/2019,Australia,negative,108
+K Console,1/7/2019,Australia,unassigned,20
+K Console,1/7/2019,United States,unassigned,966
+K Console,1/7/2019,Germany,positive,1602
+K Console,1/7/2019,United Kingdom,negative,624
+K Console,1/7/2019,United Kingdom,unassigned,72
+K Console,1/7/2019,United States,neutral,35081
+K Console,1/7/2019,United States,negative,
+K Console,1/7/2019,Australia,neutral,
+K Console,1/7/2019,Germany,unassigned,
+K Console,1/7/2019,United States,positive,
+K Console,1/14/2019,Germany,positive,2262
+K Console,1/14/2019,Australia,neutral,1175
+K Console,1/14/2019,United Kingdom,positive,1921
+K Console,1/14/2019,United States,negative,3741
+K Console,1/14/2019,United Kingdom,unassigned,67
+K Console,1/14/2019,United States,positive,7982
+K Console,1/14/2019,Germany,neutral,1893
+K Console,1/14/2019,Australia,negative,81
+K Console,1/14/2019,Germany,negative,779
+K Console,1/14/2019,United Kingdom,negative,692
+K Console,1/14/2019,Germany,unassigned,28
+K Console,1/14/2019,Australia,positive,221
+K Console,1/14/2019,United States,unassigned,935
+K Console,1/14/2019,Australia,unassigned,13
+K Console,1/14/2019,United Kingdom,neutral,7842
+K Console,1/14/2019,United States,neutral,38144
+K Console,1/21/2019,United Kingdom,neutral,7413
+K Console,1/21/2019,United States,negative,5427
+K Console,1/21/2019,United States,neutral,39550
+K Console,1/21/2019,United States,unassigned,939
+K Console,1/21/2019,Australia,positive,251
+K Console,1/21/2019,Australia,neutral,1347
+K Console,1/21/2019,United States,positive,7481
+K Console,1/21/2019,Germany,negative,1143
+K Console,1/21/2019,Germany,neutral,2641
+K Console,1/21/2019,Australia,unassigned,15
+K Console,1/21/2019,United Kingdom,negative,794
+K Console,1/21/2019,United Kingdom,unassigned,73
+K Console,1/21/2019,Germany,unassigned,58
+K Console,1/21/2019,United Kingdom,positive,2241
+K Console,1/21/2019,Australia,negative,148
+K Console,1/21/2019,Germany,positive,2422
+K Console,1/28/2019,United States,unassigned,807
+K Console,1/28/2019,United Kingdom,positive,966
+K Console,1/28/2019,United Kingdom,neutral,4635
+K Console,1/28/2019,Australia,positive,180
+K Console,1/28/2019,Germany,neutral,1545
+K Console,1/28/2019,United Kingdom,unassigned,48
+K Console,1/28/2019,Germany,unassigned,24
+K Console,1/28/2019,United Kingdom,negative,391
+K Console,1/28/2019,United Kingdom,neutral,2952
+K Console,1/28/2019,Germany,positive,1241
+K Console,1/28/2019,United States,negative,2924
+K Console,1/28/2019,Australia,negative,80
+K Console,1/28/2019,Germany,unassigned,66
+K Console,1/28/2019,Germany,negative,439
+K Console,1/28/2019,United States,neutral,14749
+K Console,1/28/2019,United Kingdom,positive,608
+K Console,1/28/2019,Australia,unassigned,17
+K Console,1/28/2019,Germany,negative,237
+K Console,1/28/2019,United States,neutral,26189
+K Console,1/28/2019,United Kingdom,negative,271
+K Console,1/28/2019,Australia,positive,94
+K Console,1/28/2019,Germany,neutral,859
+K Console,1/28/2019,United States,positive,5642
+K Console,1/28/2019,Australia,neutral,470
+K Console,1/28/2019,United States,negative,1812
+K Console,1/28/2019,United States,positive,3239
+K Console,1/28/2019,Germany,positive,720
+K Console,1/28/2019,United Kingdom,unassigned,38
+K Console,1/28/2019,Australia,unassigned,
+K Console,1/28/2019,United States,unassigned,
+K Console,1/28/2019,Australia,neutral,
+K Console,1/28/2019,Australia,negative,
+K Console,2/4/2019,United Kingdom,positive,2281
+K Console,2/4/2019,United States,negative,4076
+K Console,2/4/2019,Australia,neutral,1562
+K Console,2/4/2019,Germany,negative,507
+K Console,2/4/2019,Australia,negative,163
+K Console,2/4/2019,Australia,unassigned,31
+K Console,2/4/2019,Germany,neutral,2036
+K Console,2/4/2019,United Kingdom,negative,592
+K Console,2/4/2019,United States,neutral,41876
+K Console,2/4/2019,Australia,positive,294
+K Console,2/4/2019,Germany,unassigned,30
+K Console,2/4/2019,Germany,positive,1620
+K Console,2/4/2019,United Kingdom,unassigned,82
+K Console,2/4/2019,United States,positive,
+K Console,2/4/2019,United Kingdom,neutral,
+K Console,2/4/2019,United States,unassigned,
+K Console,2/11/2019,Australia,positive,236
+K Console,2/11/2019,Germany,unassigned,34
+K Console,2/11/2019,Australia,unassigned,20
+K Console,2/11/2019,United Kingdom,neutral,7226
+K Console,2/11/2019,United Kingdom,unassigned,61
+K Console,2/11/2019,United States,positive,7013
+K Console,2/11/2019,Germany,positive,1606
+K Console,2/11/2019,Germany,neutral,1604
+K Console,2/11/2019,Australia,negative,166
+K Console,2/11/2019,United States,negative,4403
+K Console,2/11/2019,United Kingdom,negative,642
+K Console,2/11/2019,United Kingdom,positive,1279
+K Console,2/11/2019,United States,unassigned,1167
+K Console,2/11/2019,United States,neutral,
+K Console,2/11/2019,Australia,neutral,
+K Console,2/11/2019,Germany,negative,
+K Console,2/18/2019,United Kingdom,unassigned,80
+K Console,2/18/2019,United States,positive,7187
+K Console,2/18/2019,Germany,neutral,1590
+K Console,2/18/2019,Germany,positive,1493
+K Console,2/18/2019,United States,neutral,33437
+K Console,2/18/2019,Germany,unassigned,38
+K Console,2/18/2019,United Kingdom,positive,1119
+K Console,2/18/2019,United States,negative,3889
+K Console,2/18/2019,Germany,negative,456
+K Console,2/18/2019,Australia,positive,211
+K Console,2/18/2019,United Kingdom,negative,659
+K Console,2/18/2019,United Kingdom,neutral,7272
+K Console,2/18/2019,Australia,unassigned,
+K Console,2/18/2019,Australia,neutral,
+K Console,2/18/2019,United States,unassigned,
+K Console,2/18/2019,Australia,negative,
+K Console,2/25/2019,United Kingdom,positive,791
+K Console,2/25/2019,Germany,negative,307
+K Console,2/25/2019,United States,positive,4379
+K Console,2/25/2019,United States,neutral,20958
+K Console,2/25/2019,United Kingdom,unassigned,28
+K Console,2/25/2019,United States,negative,2449
+K Console,2/25/2019,United States,positive,2356
+K Console,2/25/2019,Germany,positive,611
+K Console,2/25/2019,Australia,unassigned,9
+K Console,2/25/2019,Australia,positive,92
+K Console,2/25/2019,Germany,negative,215
+K Console,2/25/2019,Germany,neutral,1029
+K Console,2/25/2019,Australia,negative,69
+K Console,2/25/2019,United Kingdom,unassigned,30
+K Console,2/25/2019,United States,negative,1407
+K Console,2/25/2019,United States,unassigned,296
+K Console,2/25/2019,United Kingdom,positive,518
+K Console,2/25/2019,Australia,neutral,417
+K Console,2/25/2019,United Kingdom,neutral,2278
+K Console,2/25/2019,United Kingdom,neutral,3957
+K Console,2/25/2019,Germany,neutral,583
+K Console,2/25/2019,United Kingdom,negative,261
+K Console,2/25/2019,United Kingdom,negative,408
+K Console,2/25/2019,Germany,unassigned,26
+K Console,2/25/2019,Australia,negative,66
+K Console,2/25/2019,Australia,neutral,836
+K Console,2/25/2019,Australia,positive,167
+K Console,2/25/2019,Australia,unassigned,9
+K Console,2/25/2019,United States,neutral,12216
+K Console,2/25/2019,Germany,positive,
+K Console,2/25/2019,United States,unassigned,
+K Console,2/25/2019,Germany,unassigned,
+K Console,3/4/2019,Germany,positive,1642
+K Console,3/4/2019,Australia,positive,261
+K Console,3/4/2019,Australia,neutral,1462
+K Console,3/4/2019,United Kingdom,unassigned,71
+K Console,3/4/2019,United States,unassigned,963
+K Console,3/4/2019,United Kingdom,positive,1635
+K Console,3/4/2019,United Kingdom,negative,762
+K Console,3/4/2019,Germany,unassigned,33
+K Console,3/4/2019,Germany,neutral,1759
+K Console,3/4/2019,Germany,negative,677
+K Console,3/4/2019,Australia,negative,153
+K Console,3/4/2019,Australia,unassigned,30
+K Console,3/4/2019,United States,negative,5058
+K Console,3/4/2019,United States,neutral,
+K Console,3/4/2019,United States,positive,
+K Console,3/4/2019,United Kingdom,neutral,
+K Console,3/11/2019,United Kingdom,positive,1164
+K Console,3/11/2019,Australia,negative,86
+K Console,3/11/2019,United States,unassigned,1389
+K Console,3/11/2019,United Kingdom,negative,497
+K Console,3/11/2019,United States,negative,3506
+K Console,3/11/2019,Australia,neutral,1097
+K Console,3/11/2019,Germany,neutral,1604
+K Console,3/11/2019,United Kingdom,unassigned,67
+K Console,3/11/2019,United Kingdom,neutral,6792
+K Console,3/11/2019,Australia,unassigned,33
+K Console,3/11/2019,Australia,positive,217
+K Console,3/11/2019,Germany,negative,403
+K Console,3/11/2019,United States,positive,6925
+K Console,3/11/2019,Germany,positive,1558
+K Console,3/11/2019,Germany,unassigned,36
+K Console,3/11/2019,United States,neutral,35005
+K Console,3/18/2019,Germany,positive,1654
+K Console,3/18/2019,United States,positive,8159
+K Console,3/18/2019,Australia,unassigned,27
+K Console,3/18/2019,United Kingdom,negative,565
+K Console,3/18/2019,Australia,neutral,1556
+K Console,3/18/2019,United States,unassigned,867
+K Console,3/18/2019,Australia,negative,92
+K Console,3/18/2019,United Kingdom,unassigned,81
+K Console,3/18/2019,United States,neutral,36253
+K Console,3/18/2019,Germany,neutral,1589
+K Console,3/18/2019,United States,negative,3621
+K Console,3/18/2019,Germany,negative,516
+K Console,3/18/2019,United Kingdom,positive,1301
+K Console,3/18/2019,United Kingdom,neutral,7822
+K Console,3/18/2019,Germany,unassigned,
+K Console,3/18/2019,Australia,positive,
+K Console,3/25/2019,Germany,unassigned,27
+K Console,3/25/2019,Australia,unassigned,28
+K Console,3/25/2019,United States,positive,7151
+K Console,3/25/2019,United Kingdom,negative,516
+K Console,3/25/2019,United Kingdom,neutral,7952
+K Console,3/25/2019,United States,negative,3768
+K Console,3/25/2019,Germany,neutral,1905
+K Console,3/25/2019,United Kingdom,unassigned,99
+K Console,3/25/2019,Australia,negative,106
+K Console,3/25/2019,Australia,neutral,1367
+K Console,3/25/2019,United States,unassigned,1172
+K Console,3/25/2019,United States,neutral,39755
+K Console,3/25/2019,United Kingdom,positive,1537
+K Console,3/25/2019,Germany,positive,1616
+K Console,3/25/2019,Germany,negative,441
+K Console,3/25/2019,Australia,positive,263
+K Console,4/1/2019,United Kingdom,positive,14
+K Console,4/1/2019,United States,negative,3350
+K Console,4/1/2019,Germany,positive,1552
+K Console,4/1/2019,Australia,unassigned,1
+K Console,4/1/2019,United Kingdom,negative,3
+K Console,4/1/2019,Germany,neutral,7
+K Console,4/1/2019,Australia,negative,87
+K Console,4/1/2019,United States,positive,6296
+K Console,4/1/2019,United Kingdom,negative,542
+K Console,4/1/2019,United Kingdom,positive,1245
+K Console,4/1/2019,Germany,negative,411
+K Console,4/1/2019,Germany,unassigned,36
+K Console,4/1/2019,United States,unassigned,29
+K Console,4/1/2019,Germany,negative,0
+K Console,4/1/2019,United States,unassigned,930
+K Console,4/1/2019,United Kingdom,unassigned,63
+K Console,4/1/2019,Australia,neutral,1329
+K Console,4/1/2019,Australia,positive,225
+K Console,4/1/2019,United Kingdom,neutral,30
+K Console,4/1/2019,United States,neutral,38093
+K Console,4/1/2019,United States,neutral,702
+K Console,4/1/2019,United States,positive,118
+K Console,4/1/2019,Australia,positive,5
+K Console,4/1/2019,United States,negative,60
+K Console,4/1/2019,Germany,neutral,1923
+K Console,4/1/2019,Australia,neutral,33
+K Console,4/1/2019,Germany,positive,9
+K Console,4/1/2019,Australia,unassigned,35
+K Console,4/1/2019,United Kingdom,neutral,
+K Console,4/8/2019,United Kingdom,negative,637
+K Console,4/8/2019,Australia,positive,229
+K Console,4/8/2019,United States,positive,7416
+K Console,4/8/2019,United States,negative,4477
+K Console,4/8/2019,Germany,positive,1448
+K Console,4/8/2019,Germany,neutral,1623
+K Console,4/8/2019,Germany,unassigned,17
+K Console,4/8/2019,Australia,unassigned,10
+K Console,4/8/2019,Australia,neutral,1040
+K Console,4/8/2019,United States,unassigned,1583
+K Console,4/8/2019,Australia,negative,111
+K Console,4/8/2019,United Kingdom,unassigned,90
+K Console,4/8/2019,United States,neutral,37021
+K Console,4/8/2019,United Kingdom,neutral,6256
+K Console,4/8/2019,Germany,negative,488
+K Console,4/8/2019,United Kingdom,positive,
+K Console,4/15/2019,Germany,neutral,2517
+K Console,4/15/2019,United States,unassigned,1181
+K Console,4/15/2019,Germany,negative,848
+K Console,4/15/2019,Germany,unassigned,30
+K Console,4/15/2019,United States,positive,8893
+K Console,4/15/2019,Australia,neutral,1372
+K Console,4/15/2019,Australia,unassigned,38
+K Console,4/15/2019,United Kingdom,positive,1885
+K Console,4/15/2019,United States,negative,4698
+K Console,4/15/2019,United Kingdom,negative,606
+K Console,4/15/2019,Germany,positive,1879
+K Console,4/15/2019,United States,neutral,44853
+K Console,4/15/2019,United Kingdom,unassigned,126
+K Console,4/15/2019,Australia,negative,
+K Console,4/15/2019,Australia,positive,
+K Console,4/15/2019,United Kingdom,neutral,
+K Console,4/22/2019,United Kingdom,positive,1296
+K Console,4/22/2019,Australia,unassigned,26
+K Console,4/22/2019,United States,neutral,34373
+K Console,4/22/2019,Germany,positive,1553
+K Console,4/22/2019,Australia,negative,123
+K Console,4/22/2019,Germany,negative,552
+K Console,4/22/2019,United Kingdom,unassigned,69
+K Console,4/22/2019,United Kingdom,neutral,6953
+K Console,4/22/2019,United States,unassigned,1195
+K Console,4/22/2019,United States,positive,6884
+K Console,4/22/2019,Germany,neutral,1801
+K Console,4/22/2019,United Kingdom,negative,628
+K Console,4/22/2019,Germany,unassigned,27
+K Console,4/22/2019,Australia,neutral,
+K Console,4/22/2019,United States,negative,
+K Console,4/22/2019,Australia,positive,
+K Console,4/29/2019,United Kingdom,negative,330
+K Console,4/29/2019,United Kingdom,unassigned,65
+K Console,4/29/2019,Germany,positive,407
+K Console,4/29/2019,Australia,positive,56
+K Console,4/29/2019,Australia,neutral,566
+K Console,4/29/2019,United States,unassigned,265
+K Console,4/29/2019,United States,negative,964
+K Console,4/29/2019,Germany,positive,737
+K Console,4/29/2019,United Kingdom,neutral,1513
+K Console,4/29/2019,United States,negative,2268
+K Console,4/29/2019,Germany,unassigned,9
+K Console,4/29/2019,United States,positive,4766
+K Console,4/29/2019,United States,unassigned,582
+K Console,4/29/2019,Germany,neutral,945
+K Console,4/29/2019,United Kingdom,unassigned,14
+K Console,4/29/2019,United Kingdom,positive,311
+K Console,4/29/2019,Germany,unassigned,15
+K Console,4/29/2019,United States,positive,1564
+K Console,4/29/2019,United Kingdom,negative,163
+K Console,4/29/2019,Australia,unassigned,13
+K Console,4/29/2019,Australia,negative,36
+K Console,4/29/2019,Germany,negative,303
+K Console,4/29/2019,Germany,neutral,723
+K Console,4/29/2019,Germany,negative,158
+K Console,4/29/2019,Australia,positive,127
+K Console,4/29/2019,United States,neutral,9652
+K Console,4/29/2019,Australia,neutral,272
+K Console,4/29/2019,United States,neutral,19981
+K Console,4/29/2019,United Kingdom,positive,710
+K Console,4/29/2019,Australia,unassigned,10
+K Console,4/29/2019,Australia,negative,27
+K Console,4/29/2019,United Kingdom,neutral,
+K Console,5/6/2019,Germany,positive,1392
+K Console,5/6/2019,United States,unassigned,1387
+K Console,5/6/2019,Australia,positive,212
+K Console,5/6/2019,United States,negative,3513
+K Console,5/6/2019,United States,neutral,34551
+K Console,5/6/2019,Australia,unassigned,14
+K Console,5/6/2019,Germany,negative,475
+K Console,5/6/2019,Germany,unassigned,16
+K Console,5/6/2019,United States,positive,7803
+K Console,5/6/2019,Germany,neutral,1973
+K Console,5/6/2019,United Kingdom,unassigned,80
+K Console,5/6/2019,United Kingdom,negative,471
+K Console,5/6/2019,Australia,neutral,
+K Console,5/6/2019,United Kingdom,neutral,
+K Console,5/6/2019,Australia,negative,
+K Console,5/6/2019,United Kingdom,positive,
+K Console,5/13/2019,Germany,unassigned,16
+K Console,5/13/2019,Germany,neutral,1643
+K Console,5/13/2019,United States,neutral,28226
+K Console,5/13/2019,United Kingdom,neutral,8216
+K Console,5/13/2019,Germany,positive,1292
+K Console,5/13/2019,Australia,positive,193
+K Console,5/13/2019,Germany,negative,414
+K Console,5/13/2019,United Kingdom,negative,462
+K Console,5/13/2019,Australia,unassigned,18
+K Console,5/13/2019,United States,unassigned,764
+K Console,5/13/2019,United Kingdom,unassigned,240
+K Console,5/13/2019,United States,positive,6509
+K Console,5/13/2019,United Kingdom,positive,1299
+K Console,5/13/2019,United States,negative,2984
+K Console,5/13/2019,Australia,negative,67
+K Console,5/13/2019,Australia,neutral,
+K Console,5/20/2019,United Kingdom,neutral,6428
+K Console,5/20/2019,Germany,neutral,1631
+K Console,5/20/2019,Australia,neutral,1115
+K Console,5/20/2019,United States,negative,2792
+K Console,5/20/2019,Germany,negative,482
+K Console,5/20/2019,United Kingdom,positive,1292
+K Console,5/20/2019,United Kingdom,unassigned,53
+K Console,5/20/2019,United States,unassigned,944
+K Console,5/20/2019,United States,positive,7069
+K Console,5/20/2019,United Kingdom,negative,508
+K Console,5/20/2019,Australia,positive,240
+K Console,5/20/2019,Australia,unassigned,20
+K Console,5/20/2019,Germany,unassigned,19
+K Console,5/20/2019,United States,neutral,31009
+K Console,5/20/2019,Australia,negative,
+K Console,5/20/2019,Germany,positive,
+K Console,5/27/2019,United States,unassigned,5076
+K Console,5/27/2019,United Kingdom,negative,359
+K Console,5/27/2019,United States,negative,3055
+K Console,5/27/2019,United States,negative,758
+K Console,5/27/2019,United Kingdom,unassigned,807
+K Console,5/27/2019,Australia,positive,61
+K Console,5/27/2019,United States,positive,1610
+K Console,5/27/2019,Germany,neutral,479
+K Console,5/27/2019,United States,unassigned,452
+K Console,5/27/2019,United Kingdom,negative,88
+K Console,5/27/2019,Germany,negative,121
+K Console,5/27/2019,Australia,negative,12
+K Console,5/27/2019,Germany,unassigned,327
+K Console,5/27/2019,Germany,neutral,2218
+K Console,5/27/2019,Australia,neutral,257
+K Console,5/27/2019,United Kingdom,neutral,6265
+K Console,5/27/2019,Australia,unassigned,198
+K Console,5/27/2019,Germany,unassigned,7
+K Console,5/27/2019,United States,neutral,38392
+K Console,5/27/2019,United Kingdom,positive,1315
+K Console,5/27/2019,Australia,positive,252
+K Console,5/27/2019,United Kingdom,unassigned,26
+K Console,5/27/2019,Germany,positive,255
+K Console,5/27/2019,Australia,neutral,1411
+K Console,5/27/2019,United Kingdom,positive,258
+K Console,5/27/2019,Australia,unassigned,9
+K Console,5/27/2019,Germany,positive,1102
+K Console,5/27/2019,United States,neutral,8112
+K Console,5/27/2019,Germany,negative,372
+K Console,5/27/2019,United Kingdom,neutral,
+K Console,5/27/2019,Australia,negative,
+K Console,5/27/2019,United States,positive,
+K Console,6/3/2019,United States,positive,8525
+K Console,6/3/2019,United Kingdom,unassigned,108
+K Console,6/3/2019,Germany,negative,663
+K Console,6/3/2019,Australia,neutral,1320
+K Console,6/3/2019,Australia,negative,70
+K Console,6/3/2019,United States,neutral,43240
+K Console,6/3/2019,Germany,positive,1746
+K Console,6/3/2019,United Kingdom,positive,1530
+K Console,6/3/2019,United Kingdom,negative,594
+K Console,6/3/2019,Australia,positive,233
+K Console,6/3/2019,Australia,unassigned,36
+K Console,6/3/2019,United Kingdom,neutral,7496
+K Console,6/3/2019,United States,negative,3732
+K Console,6/3/2019,Germany,unassigned,23
+K Console,6/3/2019,Germany,neutral,
+K Console,6/3/2019,United States,unassigned,
+K Console,6/10/2019,Australia,positive,476
+K Console,6/10/2019,United Kingdom,neutral,10314
+K Console,6/10/2019,Germany,negative,600
+K Console,6/10/2019,United Kingdom,positive,2602
+K Console,6/10/2019,Germany,positive,2202
+K Console,6/10/2019,United States,unassigned,2278
+K Console,6/10/2019,United Kingdom,negative,889
+K Console,6/10/2019,Australia,unassigned,42
+K Console,6/10/2019,Germany,neutral,3060
+K Console,6/10/2019,United States,negative,5186
+K Console,6/10/2019,Germany,unassigned,37
+K Console,6/10/2019,United States,positive,18673
+K Console,6/10/2019,Australia,neutral,1819
+K Console,6/10/2019,United Kingdom,unassigned,180
+K Console,6/10/2019,United States,neutral,64728
+K Console,6/10/2019,Australia,negative,
+K Console,6/17/2019,United States,negative,3703
+K Console,6/17/2019,United States,neutral,38138
+K Console,6/17/2019,United Kingdom,unassigned,85
+K Console,6/17/2019,Australia,negative,97
+K Console,6/17/2019,Australia,neutral,1431
+K Console,6/17/2019,United States,unassigned,1057
+K Console,6/17/2019,Germany,positive,1457
+K Console,6/17/2019,Australia,positive,188
+K Console,6/17/2019,Germany,negative,428
+K Console,6/17/2019,Germany,unassigned,27
+K Console,6/17/2019,Australia,unassigned,25
+K Console,6/17/2019,Germany,neutral,1823
+K Console,6/17/2019,United Kingdom,negative,484
+K Console,6/17/2019,United Kingdom,positive,1028
+K Console,6/17/2019,United States,positive,
+K Console,6/17/2019,United Kingdom,neutral,
+K Console,6/24/2019,Australia,negative,121
+K Console,6/24/2019,United Kingdom,positive,1049
+K Console,6/24/2019,United States,neutral,37803
+K Console,6/24/2019,United States,unassigned,1083
+K Console,6/24/2019,United States,negative,3584
+K Console,6/24/2019,United Kingdom,neutral,6020
+K Console,6/24/2019,Germany,positive,1345
+K Console,6/24/2019,Germany,neutral,1504
+K Console,6/24/2019,United Kingdom,unassigned,89
+K Console,6/24/2019,Australia,positive,192
+K Console,6/24/2019,United States,positive,6455
+K Console,6/24/2019,Australia,neutral,1306
+K Console,6/24/2019,Australia,unassigned,24
+K Console,6/24/2019,Germany,unassigned,25
+K Console,6/24/2019,United Kingdom,negative,442
+K Console,6/24/2019,Germany,negative,
+K Console,7/1/2019,United Kingdom,neutral,49
+K Console,7/1/2019,United Kingdom,unassigned,98
+K Console,7/1/2019,United States,unassigned,45
+K Console,7/1/2019,United States,neutral,1207
+K Console,7/1/2019,United States,unassigned,998
+K Console,7/1/2019,Germany,unassigned,26
+K Console,7/1/2019,Australia,neutral,34
+K Console,7/1/2019,Australia,positive,183
+K Console,7/1/2019,United States,negative,123
+K Console,7/1/2019,United Kingdom,positive,13
+K Console,7/1/2019,Australia,neutral,1046
+K Console,7/1/2019,United Kingdom,negative,5
+K Console,7/1/2019,Germany,negative,1
+K Console,7/1/2019,United States,neutral,33364
+K Console,7/1/2019,Germany,negative,411
+K Console,7/1/2019,Australia,negative,3
+K Console,7/1/2019,United Kingdom,neutral,7010
+K Console,7/1/2019,United Kingdom,unassigned,0
+K Console,7/1/2019,United Kingdom,negative,486
+K Console,7/1/2019,United States,positive,412
+K Console,7/1/2019,Australia,negative,75
+K Console,7/1/2019,Australia,unassigned,22
+K Console,7/1/2019,Germany,positive,1280
+K Console,7/1/2019,United States,positive,6877
+K Console,7/1/2019,Germany,neutral,14
+K Console,7/1/2019,Germany,unassigned,0
+K Console,7/1/2019,United Kingdom,positive,
+K Console,7/1/2019,Germany,positive,
+K Console,7/1/2019,Germany,neutral,
+K Console,7/1/2019,Australia,positive,
+K Console,7/1/2019,United States,negative,
+K Console,7/8/2019,Australia,unassigned,30
+K Console,7/8/2019,United Kingdom,neutral,6924
+K Console,7/8/2019,Australia,negative,70
+K Console,7/8/2019,Australia,positive,154
+K Console,7/8/2019,United States,negative,2832
+K Console,7/8/2019,Australia,neutral,1013
+K Console,7/8/2019,United Kingdom,negative,447
+K Console,7/8/2019,Germany,unassigned,24
+K Console,7/8/2019,United Kingdom,positive,1118
+K Console,7/8/2019,United States,neutral,34309
+K Console,7/8/2019,Germany,neutral,1704
+K Console,7/8/2019,United Kingdom,unassigned,82
+K Console,7/8/2019,United States,positive,5594
+K Console,7/8/2019,Germany,negative,356
+K Console,7/8/2019,Germany,positive,1385
+K Console,7/8/2019,United States,unassigned,
+K Console,7/15/2019,Germany,positive,1372
+K Console,7/15/2019,Australia,unassigned,36
+K Console,7/15/2019,United States,negative,3272
+K Console,7/15/2019,United Kingdom,negative,516
+K Console,7/15/2019,United Kingdom,neutral,6925
+K Console,7/15/2019,Germany,unassigned,42
+K Console,7/15/2019,United States,positive,6743
+K Console,7/15/2019,Australia,positive,232
+K Console,7/15/2019,Germany,negative,392
+K Console,7/15/2019,Australia,negative,77
+K Console,7/15/2019,United States,neutral,35988
+K Console,7/15/2019,United States,unassigned,1364
+K Console,7/15/2019,United Kingdom,positive,1219
+K Console,7/15/2019,Australia,neutral,1182
+K Console,7/15/2019,Germany,neutral,2022
+K Console,7/15/2019,United Kingdom,unassigned,
+K Console,7/22/2019,Australia,unassigned,22
+K Console,7/22/2019,United Kingdom,neutral,9158
+K Console,7/22/2019,United Kingdom,positive,1195
+K Console,7/22/2019,Germany,negative,473
+K Console,7/22/2019,United Kingdom,negative,741
+K Console,7/22/2019,United States,unassigned,1263
+K Console,7/22/2019,Australia,neutral,1440
+K Console,7/22/2019,United States,positive,9264
+K Console,7/22/2019,Australia,negative,135
+K Console,7/22/2019,Germany,unassigned,30
+K Console,7/22/2019,Australia,positive,227
+K Console,7/22/2019,United States,neutral,58473
+K Console,7/22/2019,United Kingdom,unassigned,104
+K Console,7/22/2019,Germany,positive,1115
+K Console,7/22/2019,Germany,neutral,1915
+K Console,7/22/2019,United States,negative,
+K Console,7/29/2019,United Kingdom,positive,592
+K Console,7/29/2019,United Kingdom,neutral,4040
+K Console,7/29/2019,United Kingdom,unassigned,44
+K Console,7/29/2019,United States,negative,1376
+K Console,7/29/2019,Australia,positive,91
+K Console,7/29/2019,United States,negative,1638
+K Console,7/29/2019,Germany,neutral,848
+K Console,7/29/2019,Germany,unassigned,11
+K Console,7/29/2019,Germany,neutral,989
+K Console,7/29/2019,Australia,neutral,675
+K Console,7/29/2019,United Kingdom,positive,525
+K Console,7/29/2019,Germany,positive,684
+K Console,7/29/2019,Australia,neutral,619
+K Console,7/29/2019,Australia,negative,38
+K Console,7/29/2019,Germany,negative,222
+K Console,7/29/2019,United States,positive,3655
+K Console,7/29/2019,United States,unassigned,610
+K Console,7/29/2019,United States,positive,2811
+K Console,7/29/2019,Australia,unassigned,3
+K Console,7/29/2019,Germany,negative,135
+K Console,7/29/2019,United States,neutral,28887
+K Console,7/29/2019,Australia,unassigned,9
+K Console,7/29/2019,Australia,positive,108
+K Console,7/29/2019,United Kingdom,unassigned,54
+K Console,7/29/2019,United Kingdom,negative,254
+K Console,7/29/2019,Australia,negative,37
+K Console,7/29/2019,United Kingdom,neutral,
+K Console,7/29/2019,Germany,positive,
+K Console,7/29/2019,United Kingdom,negative,
+K Console,7/29/2019,Germany,unassigned,
+K Console,7/29/2019,United States,neutral,
+K Console,7/29/2019,United States,unassigned,
+K Console,8/5/2019,United States,unassigned,1150
+K Console,8/5/2019,Germany,negative,452
+K Console,8/5/2019,United Kingdom,negative,515
+K Console,8/5/2019,Australia,positive,185
+K Console,8/5/2019,United States,neutral,45215
+K Console,8/5/2019,Australia,unassigned,14
+K Console,8/5/2019,United Kingdom,neutral,7078
+K Console,8/5/2019,Australia,negative,97
+K Console,8/5/2019,Germany,neutral,1893
+K Console,8/5/2019,Australia,neutral,1268
+K Console,8/5/2019,Germany,positive,1411
+K Console,8/5/2019,United States,positive,5652
+K Console,8/5/2019,United States,negative,3284
+K Console,8/5/2019,Germany,unassigned,
+K Console,8/5/2019,United Kingdom,unassigned,
+K Console,8/5/2019,United Kingdom,positive,
+K Console,8/12/2019,United States,negative,3229
+K Console,8/12/2019,United Kingdom,unassigned,212
+K Console,8/12/2019,Australia,positive,252
+K Console,8/12/2019,United States,positive,8144
+K Console,8/12/2019,Australia,negative,89
+K Console,8/12/2019,Australia,neutral,1325
+K Console,8/12/2019,United Kingdom,neutral,7681
+K Console,8/12/2019,Germany,unassigned,30
+K Console,8/12/2019,United Kingdom,negative,561
+K Console,8/12/2019,United States,neutral,42478
+K Console,8/12/2019,Germany,positive,1680
+K Console,8/12/2019,Germany,neutral,1983
+K Console,8/12/2019,Germany,negative,397
+K Console,8/12/2019,United Kingdom,positive,1554
+K Console,8/12/2019,Australia,unassigned,18
+K Console,8/12/2019,United States,unassigned,
+K Console,8/19/2019,United Kingdom,neutral,10164
+K Console,8/19/2019,United States,negative,4361
+K Console,8/19/2019,United Kingdom,positive,1918
+K Console,8/19/2019,Germany,negative,516
+K Console,8/19/2019,United States,positive,10678
+K Console,8/19/2019,United States,unassigned,2267
+K Console,8/19/2019,Australia,positive,324
+K Console,8/19/2019,Germany,positive,2068
+K Console,8/19/2019,Germany,neutral,2459
+K Console,8/19/2019,Australia,unassigned,27
+K Console,8/19/2019,United Kingdom,negative,630
+K Console,8/19/2019,Australia,neutral,1852
+K Console,8/19/2019,United States,neutral,62114
+K Console,8/19/2019,United Kingdom,unassigned,149
+K Console,8/19/2019,Australia,negative,
+K Console,8/19/2019,Germany,unassigned,
+K Console,8/26/2019,Australia,neutral,1299
+K Console,8/26/2019,Germany,positive,1447
+K Console,8/26/2019,Australia,unassigned,12
+K Console,8/26/2019,United States,neutral,34727
+K Console,8/26/2019,Germany,neutral,1475
+K Console,8/26/2019,Germany,unassigned,32
+K Console,8/26/2019,United Kingdom,negative,529
+K Console,8/26/2019,United States,unassigned,1023
+K Console,8/26/2019,United States,positive,486
+K Console,8/26/2019,Australia,neutral,108
+K Console,8/26/2019,Germany,negative,71
+K Console,8/26/2019,United States,neutral,2954
+K Console,8/26/2019,United States,positive,5923
+K Console,8/26/2019,United Kingdom,neutral,730
+K Console,8/26/2019,United Kingdom,unassigned,18
+K Console,8/26/2019,United Kingdom,neutral,6670
+K Console,8/26/2019,Australia,positive,260
+K Console,8/26/2019,United States,negative,2632
+K Console,8/26/2019,Australia,unassigned,1
+K Console,8/26/2019,Germany,negative,346
+K Console,8/26/2019,United Kingdom,unassigned,123
+K Console,8/26/2019,Australia,negative,71
+K Console,8/26/2019,Germany,neutral,235
+K Console,8/26/2019,Germany,positive,150
+K Console,8/26/2019,United Kingdom,negative,67
+K Console,8/26/2019,United Kingdom,positive,139
+K Console,8/26/2019,Australia,positive,21
+K Console,8/26/2019,United States,negative,239
+K Console,8/26/2019,United Kingdom,positive,1253
+K Console,8/26/2019,Germany,unassigned,
+K Console,8/26/2019,Australia,negative,
+K Console,8/26/2019,United States,unassigned,
+K Console,9/2/2019,United States,negative,3309
+K Console,9/2/2019,Australia,neutral,1445
+K Console,9/2/2019,Australia,negative,94
+K Console,9/2/2019,Germany,negative,378
+K Console,9/2/2019,United Kingdom,positive,1418
+K Console,9/2/2019,Australia,unassigned,22
+K Console,9/2/2019,United States,unassigned,1205
+K Console,9/2/2019,United Kingdom,neutral,11098
+K Console,9/2/2019,Australia,positive,271
+K Console,9/2/2019,United States,positive,6854
+K Console,9/2/2019,United Kingdom,unassigned,172
+K Console,9/2/2019,United States,neutral,46436
+K Console,9/2/2019,Germany,neutral,1905
+K Console,9/2/2019,United Kingdom,negative,656
+K Console,9/2/2019,Germany,positive,1647
+K Console,9/2/2019,Germany,unassigned,
+K Console,9/9/2019,Australia,negative,180
+K Console,9/9/2019,United Kingdom,unassigned,193
+K Console,9/9/2019,United Kingdom,negative,716
+K Console,9/9/2019,United States,positive,14620
+K Console,9/9/2019,Germany,unassigned,404
+K Console,9/9/2019,United Kingdom,positive,2880
+K Console,9/9/2019,Germany,negative,951
+K Console,9/9/2019,Germany,neutral,2971
+K Console,9/9/2019,United States,neutral,56050
+K Console,9/9/2019,Australia,neutral,1822
+K Console,9/9/2019,United Kingdom,neutral,10912
+K Console,9/9/2019,Germany,positive,2347
+K Console,9/9/2019,United States,negative,4922
+K Console,9/9/2019,United States,unassigned,1437
+K Console,9/9/2019,Australia,unassigned,34
+K Console,9/9/2019,Australia,positive,
+K Console,9/16/2019,United Kingdom,positive,1402
+K Console,9/16/2019,Australia,neutral,1561
+K Console,9/16/2019,Germany,negative,561
+K Console,9/16/2019,United Kingdom,neutral,10525
+K Console,9/16/2019,United States,unassigned,1317
+K Console,9/16/2019,Australia,negative,86
+K Console,9/16/2019,Germany,positive,1431
+K Console,9/16/2019,United States,positive,7222
+K Console,9/16/2019,Germany,neutral,2681
+K Console,9/16/2019,Australia,unassigned,31
+K Console,9/16/2019,Australia,positive,245
+K Console,9/16/2019,United States,negative,3378
+K Console,9/16/2019,Germany,unassigned,41
+K Console,9/16/2019,United Kingdom,negative,
+K Console,9/16/2019,United Kingdom,unassigned,
+K Console,9/16/2019,United States,neutral,
+K Console,9/23/2019,United States,negative,5130
+K Console,9/23/2019,United States,unassigned,2132
+K Console,9/23/2019,Australia,positive,369
+K Console,9/23/2019,Germany,positive,1846
+K Console,9/23/2019,United Kingdom,positive,2639
+K Console,9/23/2019,Germany,unassigned,37
+K Console,9/23/2019,United States,positive,9928
+K Console,9/23/2019,Germany,negative,893
+K Console,9/23/2019,Australia,negative,173
+K Console,9/23/2019,United Kingdom,negative,1145
+K Console,9/23/2019,United Kingdom,unassigned,263
+K Console,9/23/2019,Australia,unassigned,30
+K Console,9/23/2019,United Kingdom,neutral,16805
+K Console,9/23/2019,Germany,neutral,3201
+K Console,9/23/2019,Australia,neutral,2094
+K Console,9/23/2019,United States,neutral,53048
+K Console,9/30/2019,United Kingdom,positive,275
+K Console,9/30/2019,United States,neutral,39759
+K Console,9/30/2019,Australia,positive,223
+K Console,9/30/2019,Germany,neutral,317
+K Console,9/30/2019,United States,positive,5831
+K Console,9/30/2019,Germany,negative,115
+K Console,9/30/2019,United Kingdom,unassigned,137
+K Console,9/30/2019,Germany,unassigned,25
+K Console,9/30/2019,United Kingdom,negative,91
+K Console,9/30/2019,United Kingdom,neutral,1589
+K Console,9/30/2019,Germany,unassigned,9
+K Console,9/30/2019,Australia,neutral,1497
+K Console,9/30/2019,United States,negative,546
+K Console,9/30/2019,United States,neutral,7302
+K Console,9/30/2019,United States,unassigned,1067
+K Console,9/30/2019,United States,negative,3375
+K Console,9/30/2019,Germany,positive,379
+K Console,9/30/2019,Germany,neutral,2021
+K Console,9/30/2019,United States,unassigned,207
+K Console,9/30/2019,Australia,negative,14
+K Console,9/30/2019,Australia,positive,51
+K Console,9/30/2019,United Kingdom,unassigned,15
+K Console,9/30/2019,United Kingdom,positive,1413
+K Console,9/30/2019,United Kingdom,negative,565
+K Console,9/30/2019,Australia,unassigned,3
+K Console,9/30/2019,Germany,negative,439
+K Console,9/30/2019,United Kingdom,neutral,9033
+K Console,9/30/2019,Germany,positive,1345
+K Console,9/30/2019,Australia,unassigned,
+K Console,9/30/2019,United States,positive,
+K Console,9/30/2019,Australia,neutral,
+K Console,9/30/2019,Australia,negative,
+K Console,10/7/2019,United States,neutral,47067
+K Console,10/7/2019,United Kingdom,negative,747
+K Console,10/7/2019,Australia,positive,287
+K Console,10/7/2019,Australia,unassigned,24
+K Console,10/7/2019,United States,positive,8287
+K Console,10/7/2019,Germany,positive,2366
+K Console,10/7/2019,United Kingdom,unassigned,402
+K Console,10/7/2019,United Kingdom,neutral,11379
+K Console,10/7/2019,United States,negative,4223
+K Console,10/7/2019,Germany,neutral,2642
+K Console,10/7/2019,Germany,negative,746
+K Console,10/7/2019,Australia,neutral,1674
+K Console,10/7/2019,Germany,unassigned,37
+K Console,10/7/2019,Australia,negative,121
+K Console,10/7/2019,United States,unassigned,1551
+K Console,10/7/2019,United Kingdom,positive,
+K Console,10/14/2019,United States,negative,3364
+K Console,10/14/2019,United States,positive,8548
+K Console,10/14/2019,United Kingdom,unassigned,158
+K Console,10/14/2019,Germany,negative,604
+K Console,10/14/2019,United Kingdom,positive,1621
+K Console,10/14/2019,Australia,negative,98
+K Console,10/14/2019,Australia,unassigned,20
+K Console,10/14/2019,Australia,neutral,1399
+K Console,10/14/2019,United States,unassigned,1156
+K Console,10/14/2019,United Kingdom,negative,558
+K Console,10/14/2019,Germany,positive,1755
+K Console,10/14/2019,Germany,unassigned,39
+K Console,10/14/2019,United States,neutral,47495
+K Console,10/14/2019,Australia,positive,306
+K Console,10/14/2019,United Kingdom,neutral,
+K Console,10/14/2019,Germany,neutral,
+K Console,10/21/2019,Germany,unassigned,44
+K Console,10/21/2019,Australia,neutral,1863
+K Console,10/21/2019,United Kingdom,neutral,10503
+K Console,10/21/2019,United Kingdom,negative,927
+K Console,10/21/2019,Germany,positive,2423
+K Console,10/21/2019,United States,negative,4277
+K Console,10/21/2019,United States,positive,11649
+K Console,10/21/2019,Australia,positive,474
+K Console,10/21/2019,United Kingdom,unassigned,182
+K Console,10/21/2019,Germany,neutral,2522
+K Console,10/21/2019,United States,unassigned,1520
+K Console,10/21/2019,United States,neutral,56128
+K Console,10/21/2019,Australia,negative,129
+K Console,10/21/2019,Australia,unassigned,26
+K Console,10/21/2019,Germany,negative,746
+K Console,10/21/2019,United Kingdom,positive,2322
+K Console,10/28/2019,United Kingdom,unassigned,52
+K Console,10/28/2019,Germany,neutral,1051
+K Console,10/28/2019,United States,negative,1544
+K Console,10/28/2019,United Kingdom,neutral,3066
+K Console,10/28/2019,United Kingdom,unassigned,88
+K Console,10/28/2019,United States,neutral,32694
+K Console,10/28/2019,Germany,negative,299
+K Console,10/28/2019,United States,positive,2599
+K Console,10/28/2019,Australia,positive,260
+K Console,10/28/2019,Australia,unassigned,14
+K Console,10/28/2019,United States,unassigned,1064
+K Console,10/28/2019,United Kingdom,neutral,5932
+K Console,10/28/2019,Germany,unassigned,26
+K Console,10/28/2019,Australia,neutral,1018
+K Console,10/28/2019,Australia,neutral,601
+K Console,10/28/2019,United Kingdom,negative,465
+K Console,10/28/2019,Australia,unassigned,10
+K Console,10/28/2019,United States,positive,6019
+K Console,10/28/2019,Germany,neutral,1359
+K Console,10/28/2019,United States,negative,2902
+K Console,10/28/2019,Germany,positive,616
+K Console,10/28/2019,Germany,negative,216
+K Console,10/28/2019,United Kingdom,positive,1015
+K Console,10/28/2019,Germany,unassigned,13
+K Console,10/28/2019,Australia,positive,431
+K Console,10/28/2019,United Kingdom,positive,524
+K Console,10/28/2019,Germany,positive,1271
+K Console,10/28/2019,Australia,negative,
+K Console,10/28/2019,Australia,negative,
+K Console,10/28/2019,United States,unassigned,
+K Console,10/28/2019,United States,neutral,
+K Console,10/28/2019,United Kingdom,negative,
+K Console,11/4/2019,Australia,unassigned,29
+K Console,11/4/2019,Australia,neutral,1746
+K Console,11/4/2019,United Kingdom,positive,1492
+K Console,11/4/2019,Australia,positive,328
+K Console,11/4/2019,Germany,positive,1815
+K Console,11/4/2019,United States,positive,7785
+K Console,11/4/2019,Germany,negative,605
+K Console,11/4/2019,United Kingdom,neutral,9478
+K Console,11/4/2019,United States,unassigned,1351
+K Console,11/4/2019,United Kingdom,unassigned,137
+K Console,11/4/2019,United States,neutral,51907
+K Console,11/4/2019,Germany,unassigned,39
+K Console,11/4/2019,United States,negative,4374
+K Console,11/4/2019,United Kingdom,negative,755
+K Console,11/4/2019,Germany,neutral,2663
+K Console,11/4/2019,Australia,negative,108
+K Console,11/11/2019,Germany,positive,1478
+K Console,11/11/2019,Australia,negative,86
+K Console,11/11/2019,Australia,unassigned,21
+K Console,11/11/2019,Germany,neutral,2134
+K Console,11/11/2019,United States,positive,6195
+K Console,11/11/2019,United Kingdom,unassigned,168
+K Console,11/11/2019,Germany,negative,1904
+K Console,11/11/2019,United Kingdom,neutral,7331
+K Console,11/11/2019,Australia,neutral,1022
+K Console,11/11/2019,United Kingdom,positive,1309
+K Console,11/11/2019,Australia,positive,220
+K Console,11/11/2019,United States,neutral,38046
+K Console,11/11/2019,United States,unassigned,1181
+K Console,11/11/2019,United States,negative,3616
+K Console,11/11/2019,United Kingdom,negative,
+K Console,11/11/2019,Germany,unassigned,
+K Console,11/18/2019,United States,positive,7358
+K Console,11/18/2019,Germany,neutral,2020
+K Console,11/18/2019,Germany,unassigned,47
+K Console,11/18/2019,United States,neutral,39246
+K Console,11/18/2019,Australia,positive,289
+K Console,11/18/2019,Australia,neutral,1405
+K Console,11/18/2019,United States,negative,3358
+K Console,11/18/2019,United Kingdom,negative,479
+K Console,11/18/2019,Germany,positive,1838
+K Console,11/18/2019,Australia,negative,126
+K Console,11/18/2019,United Kingdom,unassigned,114
+K Console,11/18/2019,United Kingdom,neutral,6063
+K Console,11/18/2019,Australia,unassigned,17
+K Console,11/18/2019,United Kingdom,positive,1469
+K Console,11/18/2019,United States,unassigned,1246
+K Console,11/18/2019,Germany,negative,
+K Console,11/25/2019,Australia,negative,9
+K Console,11/25/2019,Germany,positive,139
+K Console,11/25/2019,Germany,neutral,1578
+K Console,11/25/2019,United States,positive,6289
+K Console,11/25/2019,Germany,negative,512
+K Console,11/25/2019,United States,negative,330
+K Console,11/25/2019,United States,unassigned,108
+K Console,11/25/2019,United Kingdom,unassigned,12
+K Console,11/25/2019,Germany,negative,47
+K Console,11/25/2019,Australia,positive,23
+K Console,11/25/2019,Germany,unassigned,3
+K Console,11/25/2019,United States,negative,2797
+K Console,11/25/2019,United Kingdom,neutral,6146
+K Console,11/25/2019,Australia,negative,85
+K Console,11/25/2019,United Kingdom,negative,45
+K Console,11/25/2019,Germany,positive,1924
+K Console,11/25/2019,United Kingdom,negative,443
+K Console,11/25/2019,Germany,neutral,243
+K Console,11/25/2019,Australia,neutral,110
+K Console,11/25/2019,United States,neutral,36898
+K Console,11/25/2019,Australia,unassigned,15
+K Console,11/25/2019,United States,unassigned,1131
+K Console,11/25/2019,Australia,neutral,1371
+K Console,11/25/2019,United Kingdom,unassigned,103
+K Console,11/25/2019,United States,neutral,4166
+K Console,11/25/2019,United Kingdom,positive,1254
+K Console,11/25/2019,United Kingdom,neutral,764
+K Console,11/25/2019,Germany,unassigned,
+K Console,11/25/2019,United Kingdom,positive,
+K Console,11/25/2019,United States,positive,
+K Console,11/25/2019,Australia,positive,
+K Console,12/2/2019,Germany,unassigned,38
+K Console,12/2/2019,United Kingdom,neutral,11151
+K Console,12/2/2019,Australia,unassigned,21
+K Console,12/2/2019,Australia,neutral,1923
+K Console,12/2/2019,United Kingdom,positive,2264
+K Console,12/2/2019,United States,positive,11285
+K Console,12/2/2019,Germany,negative,533
+K Console,12/2/2019,Australia,negative,104
+K Console,12/2/2019,United Kingdom,negative,551
+K Console,12/2/2019,United States,neutral,52135
+K Console,12/2/2019,Germany,positive,2059
+K Console,12/2/2019,Germany,neutral,2362
+K Console,12/2/2019,United States,unassigned,1634
+K Console,12/2/2019,United Kingdom,unassigned,160
+K Console,12/2/2019,United States,negative,
+K Console,12/2/2019,Australia,positive,
+K Console,12/9/2019,Australia,positive,402
+K Console,12/9/2019,United Kingdom,positive,2343
+K Console,12/9/2019,Australia,neutral,1856
+K Console,12/9/2019,Germany,unassigned,38
+K Console,12/9/2019,Germany,negative,587
+K Console,12/9/2019,United Kingdom,negative,608
+K Console,12/9/2019,United States,neutral,57394
+K Console,12/9/2019,Australia,unassigned,27
+K Console,12/9/2019,United Kingdom,unassigned,167
+K Console,12/9/2019,Germany,neutral,2463
+K Console,12/9/2019,Germany,positive,1884
+K Console,12/9/2019,Australia,negative,116
+K Console,12/9/2019,United Kingdom,neutral,10141
+K Console,12/9/2019,United States,unassigned,1781
+K Console,12/9/2019,United States,negative,
+K Console,12/9/2019,United States,positive,
+K Console,12/16/2019,United States,neutral,50988
+K Console,12/16/2019,United Kingdom,negative,576
+K Console,12/16/2019,Australia,positive,276
+K Console,12/16/2019,United States,unassigned,1365
+K Console,12/16/2019,Australia,unassigned,20
+K Console,12/16/2019,United Kingdom,positive,2011
+K Console,12/16/2019,Australia,neutral,1454
+K Console,12/16/2019,United States,negative,3830
+K Console,12/16/2019,Australia,negative,84
+K Console,12/16/2019,United Kingdom,unassigned,112
+K Console,12/16/2019,United States,positive,7617
+K Console,12/16/2019,Germany,unassigned,17
+K Console,12/16/2019,United Kingdom,neutral,9462
+K Console,12/16/2019,Germany,neutral,1944
+K Console,12/16/2019,Germany,positive,
+K Console,12/16/2019,Germany,negative,
+K Console,12/23/2019,Germany,unassigned,35
+K Console,12/23/2019,United Kingdom,positive,1338
+K Console,12/23/2019,United States,unassigned,1013
+K Console,12/23/2019,Australia,negative,71
+K Console,12/23/2019,United States,negative,3189
+K Console,12/23/2019,Australia,neutral,1114
+K Console,12/23/2019,Germany,neutral,2231
+K Console,12/23/2019,United States,neutral,38141
+K Console,12/23/2019,Germany,positive,1204
+K Console,12/23/2019,United Kingdom,neutral,6507
+K Console,12/23/2019,United Kingdom,unassigned,103
+K Console,12/23/2019,Germany,negative,492
+K Console,12/23/2019,United States,positive,7019
+K Console,12/23/2019,United Kingdom,negative,
+K Console,12/23/2019,Australia,unassigned,
+K Console,12/23/2019,Australia,positive,
+K Console,12/30/2019,United States,negative,1063
+K Console,12/30/2019,Germany,positive,392
+K Console,12/30/2019,United Kingdom,unassigned,31
+K Console,12/30/2019,United Kingdom,neutral,1957
+K Console,12/30/2019,United States,neutral,13511
+K Console,12/30/2019,Germany,negative,170
+K Console,12/30/2019,Australia,unassigned,5
+K Console,12/30/2019,Australia,negative,32
+K Console,12/30/2019,Australia,neutral,367
+K Console,12/30/2019,Australia,positive,67
+K Console,12/30/2019,United States,positive,2104
+K Console,12/30/2019,Germany,neutral,570
+K Console,12/30/2019,United States,unassigned,303
+K Console,12/30/2019,United Kingdom,negative,138
+K Console,12/30/2019,Germany,unassigned,4
+K Console,12/30/2019,United Kingdom,positive,438

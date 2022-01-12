@@ -1,0 +1,461 @@
+﻿topic,week_start_date,country,volume
+K Console,11/20/2017,Germany,4750
+K Console,11/20/2017,United Kingdom,14428
+K Console,11/20/2017,Australia,2190
+K Console,11/20/2017,United States,77280
+K Console,11/27/2017,Australia,2267
+K Console,11/27/2017,United States,123159
+K Console,11/27/2017,Germany,4710
+K Console,11/27/2017,United Kingdom,14513
+K Console,12/4/2017,United States,125452
+K Console,12/4/2017,United Kingdom,17360
+K Console,12/4/2017,Germany,5935
+K Console,12/4/2017,Australia,2536
+K Console,12/11/2017,Australia,2099
+K Console,12/11/2017,Germany,5609
+K Console,12/11/2017,United States,
+K Console,12/11/2017,United Kingdom,
+K Console,12/18/2017,Germany,21400
+K Console,12/18/2017,United States,99206
+K Console,12/18/2017,United Kingdom,16235
+K Console,12/18/2017,Australia,
+K Console,12/25/2017,Germany,3734
+K Console,12/25/2017,Australia,1844
+K Console,12/25/2017,United Kingdom,14484
+K Console,12/25/2017,United States,103238
+K Console,1/1/2018,United Kingdom,12026
+K Console,1/1/2018,Australia,1501
+K Console,1/1/2018,United States,102137
+K Console,1/1/2018,Germany,4329
+K Console,1/8/2018,United States,99916
+K Console,1/8/2018,United Kingdom,9823
+K Console,1/8/2018,Germany,4692
+K Console,1/8/2018,Australia,1562
+K Console,1/15/2018,United Kingdom,12268
+K Console,1/15/2018,United States,104830
+K Console,1/15/2018,Australia,1741
+K Console,1/15/2018,Germany,5317
+K Console,1/22/2018,United Kingdom,13397
+K Console,1/22/2018,United States,123384
+K Console,1/22/2018,Australia,
+K Console,1/22/2018,Germany,
+K Console,1/29/2018,United Kingdom,5777
+K Console,1/29/2018,United States,39194
+K Console,1/29/2018,United Kingdom,4068
+K Console,1/29/2018,Germany,1869
+K Console,1/29/2018,United States,66597
+K Console,1/29/2018,Australia,1011
+K Console,1/29/2018,Australia,641
+K Console,1/29/2018,Germany,3282
+K Console,2/5/2018,United States,96977
+K Console,2/5/2018,Australia,1714
+K Console,2/5/2018,Germany,3638
+K Console,2/5/2018,United Kingdom,9176
+K Console,2/12/2018,Australia,1729
+K Console,2/12/2018,United States,98863
+K Console,2/12/2018,United Kingdom,10821
+K Console,2/12/2018,Germany,4714
+K Console,2/19/2018,Australia,2444
+K Console,2/19/2018,United States,78976
+K Console,2/19/2018,Germany,3630
+K Console,2/19/2018,United Kingdom,
+K Console,2/26/2018,Germany,3915
+K Console,2/26/2018,United Kingdom,9279
+K Console,2/26/2018,Australia,1784
+K Console,2/26/2018,United States,85407
+K Console,3/5/2018,United States,72518
+K Console,3/5/2018,United Kingdom,12420
+K Console,3/5/2018,Australia,1841
+K Console,3/5/2018,Germany,4296
+K Console,3/12/2018,United States,55434
+K Console,3/12/2018,Australia,2055
+K Console,3/12/2018,United Kingdom,13323
+K Console,3/12/2018,Germany,
+K Console,3/19/2018,United Kingdom,12528
+K Console,3/19/2018,Australia,1933
+K Console,3/19/2018,Germany,4343
+K Console,3/19/2018,United States,56382
+K Console,3/26/2018,United States,50693
+K Console,3/26/2018,United Kingdom,13754
+K Console,3/26/2018,Australia,2030
+K Console,3/26/2018,Germany,4821
+K Console,4/2/2018,United Kingdom,13267
+K Console,4/2/2018,Australia,1949
+K Console,4/2/2018,United States,74649
+K Console,4/2/2018,Germany,4383
+K Console,4/9/2018,United Kingdom,10660
+K Console,4/9/2018,Germany,4009
+K Console,4/9/2018,United States,54314
+K Console,4/9/2018,Australia,1848
+K Console,4/16/2018,Australia,1949
+K Console,4/16/2018,United States,54008
+K Console,4/16/2018,Germany,3704
+K Console,4/16/2018,United Kingdom,11652
+K Console,4/23/2018,Australia,1865
+K Console,4/23/2018,United States,53188
+K Console,4/23/2018,Germany,3967
+K Console,4/23/2018,United Kingdom,
+K Console,4/30/2018,United Kingdom,10075
+K Console,4/30/2018,United States,45906
+K Console,4/30/2018,Germany,3585
+K Console,4/30/2018,Australia,1316
+K Console,5/7/2018,United Kingdom,9375
+K Console,5/7/2018,Germany,3622
+K Console,5/7/2018,United States,50077
+K Console,5/7/2018,Australia,1456
+K Console,5/14/2018,Australia,1503
+K Console,5/14/2018,Germany,3671
+K Console,5/14/2018,United States,48936
+K Console,5/14/2018,United Kingdom,
+K Console,5/21/2018,Australia,1849
+K Console,5/21/2018,Germany,4952
+K Console,5/21/2018,United States,
+K Console,5/21/2018,United Kingdom,
+K Console,5/28/2018,Australia,1913
+K Console,5/28/2018,United Kingdom,9256
+K Console,5/28/2018,United States,63112
+K Console,5/28/2018,Germany,3902
+K Console,6/4/2018,Australia,2342
+K Console,6/4/2018,Germany,5223
+K Console,6/4/2018,United Kingdom,14172
+K Console,6/4/2018,United States,66928
+K Console,6/11/2018,Australia,2600
+K Console,6/11/2018,United States,84065
+K Console,6/11/2018,Germany,5534
+K Console,6/11/2018,United Kingdom,14373
+K Console,6/18/2018,United States,48032
+K Console,6/18/2018,Australia,1288
+K Console,6/18/2018,United Kingdom,7771
+K Console,6/18/2018,Germany,3455
+K Console,6/25/2018,Germany,3217
+K Console,6/25/2018,United States,35955
+K Console,6/25/2018,United Kingdom,7268
+K Console,6/25/2018,Australia,1171
+K Console,7/2/2018,Australia,1310
+K Console,7/2/2018,Germany,2912
+K Console,7/2/2018,United States,43986
+K Console,7/2/2018,United Kingdom,
+K Console,7/9/2018,Australia,1487
+K Console,7/9/2018,United States,45251
+K Console,7/9/2018,United Kingdom,8305
+K Console,7/9/2018,Germany,
+K Console,7/16/2018,Australia,2211
+K Console,7/16/2018,United States,107239
+K Console,7/16/2018,United Kingdom,9852
+K Console,7/16/2018,Germany,3660
+K Console,7/23/2018,United States,77610
+K Console,7/23/2018,United Kingdom,10176
+K Console,7/23/2018,Germany,3746
+K Console,7/23/2018,Australia,2120
+K Console,7/30/2018,United Kingdom,5100
+K Console,7/30/2018,Australia,1100
+K Console,7/30/2018,Germany,1677
+K Console,7/30/2018,Germany,2069
+K Console,7/30/2018,United States,26140
+K Console,7/30/2018,Australia,914
+K Console,7/30/2018,United Kingdom,6261
+K Console,7/30/2018,United States,
+K Console,8/6/2018,United States,74065
+K Console,8/6/2018,Australia,2029
+K Console,8/6/2018,Germany,3985
+K Console,8/6/2018,United Kingdom,
+K Console,8/13/2018,Australia,1603
+K Console,8/13/2018,Germany,3774
+K Console,8/13/2018,United Kingdom,10937
+K Console,8/13/2018,United States,
+K Console,8/20/2018,United Kingdom,11201
+K Console,8/20/2018,Germany,4938
+K Console,8/20/2018,Australia,2417
+K Console,8/20/2018,United States,
+K Console,8/27/2018,Australia,2169
+K Console,8/27/2018,United States,66471
+K Console,8/27/2018,Germany,4616
+K Console,8/27/2018,United Kingdom,12696
+K Console,9/3/2018,Australia,2562
+K Console,9/3/2018,Germany,5196
+K Console,9/3/2018,United States,80182
+K Console,9/3/2018,United Kingdom,14663
+K Console,9/10/2018,Germany,5325
+K Console,9/10/2018,Australia,2473
+K Console,9/10/2018,United States,66053
+K Console,9/10/2018,United Kingdom,
+K Console,9/17/2018,United Kingdom,15508
+K Console,9/17/2018,Australia,2774
+K Console,9/17/2018,Germany,6553
+K Console,9/17/2018,United States,
+K Console,9/24/2018,Australia,2180
+K Console,9/24/2018,Germany,5232
+K Console,9/24/2018,United States,69097
+K Console,9/24/2018,United Kingdom,
+K Console,10/1/2018,United Kingdom,10560
+K Console,10/1/2018,United States,52275
+K Console,10/1/2018,Australia,2151
+K Console,10/1/2018,Germany,
+K Console,10/8/2018,United States,63013
+K Console,10/8/2018,Germany,4852
+K Console,10/8/2018,Australia,2851
+K Console,10/8/2018,United Kingdom,
+K Console,10/15/2018,Australia,2732
+K Console,10/15/2018,United Kingdom,13643
+K Console,10/15/2018,Germany,4771
+K Console,10/15/2018,United States,65508
+K Console,10/22/2018,United States,69453
+K Console,10/22/2018,United Kingdom,13560
+K Console,10/22/2018,Australia,2643
+K Console,10/22/2018,Germany,
+K Console,10/29/2018,United States,58560
+K Console,10/29/2018,Australia,1715
+K Console,10/29/2018,United Kingdom,12198
+K Console,10/29/2018,Germany,4690
+K Console,11/5/2018,United Kingdom,9083
+K Console,11/5/2018,United States,50312
+K Console,11/5/2018,Germany,3812
+K Console,11/5/2018,Australia,1586
+K Console,11/12/2018,Australia,1822
+K Console,11/12/2018,Germany,4341
+K Console,11/12/2018,United States,64536
+K Console,11/12/2018,United Kingdom,12242
+K Console,11/19/2018,Australia,2532
+K Console,11/19/2018,Germany,5125
+K Console,11/19/2018,United States,64488
+K Console,11/19/2018,United Kingdom,15840
+K Console,11/26/2018,Australia,2098
+K Console,11/26/2018,Germany,4475
+K Console,11/26/2018,United States,58257
+K Console,11/26/2018,United Kingdom,
+K Console,12/3/2018,Australia,2274
+K Console,12/3/2018,United Kingdom,13669
+K Console,12/3/2018,Germany,6115
+K Console,12/3/2018,United States,68059
+K Console,12/10/2018,United States,54657
+K Console,12/10/2018,Australia,2285
+K Console,12/10/2018,Germany,4856
+K Console,12/10/2018,United Kingdom,12650
+K Console,12/17/2018,Australia,3609
+K Console,12/17/2018,United Kingdom,10956
+K Console,12/17/2018,Germany,6218
+K Console,12/17/2018,United States,53841
+K Console,12/24/2018,United States,51349
+K Console,12/24/2018,Australia,1797
+K Console,12/24/2018,Germany,4715
+K Console,12/24/2018,United Kingdom,10902
+K Console,12/31/2018,Germany,3149
+K Console,12/31/2018,Australia,1065
+K Console,12/31/2018,Australia,346
+K Console,12/31/2018,Germany,782
+K Console,12/31/2018,United States,13474
+K Console,12/31/2018,United Kingdom,1981
+K Console,12/31/2018,United Kingdom,6735
+K Console,12/31/2018,United States,44112
+K Console,1/7/2019,Australia,1632
+K Console,1/7/2019,United States,47616
+K Console,1/7/2019,United Kingdom,9046
+K Console,1/7/2019,Germany,4056
+K Console,1/14/2019,United States,50233
+K Console,1/14/2019,Germany,4876
+K Console,1/14/2019,Australia,1501
+K Console,1/14/2019,United Kingdom,10653
+K Console,1/21/2019,United States,52337
+K Console,1/21/2019,Germany,6397
+K Console,1/21/2019,United Kingdom,10158
+K Console,1/21/2019,Australia,1751
+K Console,1/28/2019,Germany,5276
+K Console,1/28/2019,Australia,1828
+K Console,1/28/2019,United Kingdom,9697
+K Console,1/28/2019,United States,55090
+K Console,2/4/2019,Australia,2062
+K Console,2/4/2019,Germany,4200
+K Console,2/4/2019,United Kingdom,11429
+K Console,2/4/2019,United States,55263
+K Console,2/11/2019,United States,49185
+K Console,2/11/2019,United Kingdom,9409
+K Console,2/11/2019,Australia,
+K Console,2/11/2019,Germany,
+K Console,2/18/2019,United Kingdom,9353
+K Console,2/18/2019,Australia,1495
+K Console,2/18/2019,Germany,3465
+K Console,2/18/2019,United States,
+K Console,2/25/2019,Germany,3640
+K Console,2/25/2019,United Kingdom,8074
+K Console,2/25/2019,United States,44200
+K Console,2/25/2019,Australia,1608
+K Console,3/4/2019,United States,50385
+K Console,3/4/2019,United Kingdom,9472
+K Console,3/4/2019,Australia,1851
+K Console,3/4/2019,Germany,
+K Console,3/11/2019,Germany,3556
+K Console,3/11/2019,United States,47329
+K Console,3/11/2019,Australia,1431
+K Console,3/11/2019,United Kingdom,8193
+K Console,3/18/2019,Australia,1884
+K Console,3/18/2019,United Kingdom,10029
+K Console,3/18/2019,Germany,3876
+K Console,3/18/2019,United States,
+K Console,3/25/2019,Australia,1720
+K Console,3/25/2019,United States,51089
+K Console,3/25/2019,United Kingdom,10265
+K Console,3/25/2019,Germany,3914
+K Console,4/1/2019,United Kingdom,10777
+K Console,4/1/2019,United States,50091
+K Console,4/1/2019,Germany,3963
+K Console,4/1/2019,Australia,1766
+K Console,4/8/2019,United Kingdom,9544
+K Console,4/8/2019,Australia,1334
+K Console,4/8/2019,Germany,3693
+K Console,4/8/2019,United States,50386
+K Console,4/15/2019,United Kingdom,11303
+K Console,4/15/2019,Germany,5244
+K Console,4/15/2019,Australia,1733
+K Console,4/15/2019,United States,57727
+K Console,4/22/2019,Germany,4011
+K Console,4/22/2019,United Kingdom,8711
+K Console,4/22/2019,United States,46754
+K Console,4/22/2019,Australia,1442
+K Console,4/29/2019,Germany,3263
+K Console,4/29/2019,United States,39251
+K Console,4/29/2019,United Kingdom,8465
+K Console,4/29/2019,Australia,1130
+K Console,5/6/2019,Germany,3777
+K Console,5/6/2019,Australia,1253
+K Console,5/6/2019,United States,47670
+K Console,5/6/2019,United Kingdom,
+K Console,5/13/2019,Germany,3193
+K Console,5/13/2019,United Kingdom,9976
+K Console,5/13/2019,United States,38906
+K Console,5/13/2019,Australia,1191
+K Console,5/20/2019,United States,42341
+K Console,5/20/2019,Australia,1436
+K Console,5/20/2019,Germany,3665
+K Console,5/20/2019,United Kingdom,
+K Console,5/27/2019,United Kingdom,10271
+K Console,5/27/2019,Germany,4868
+K Console,5/27/2019,United States,65375
+K Console,5/27/2019,Australia,2265
+K Console,6/3/2019,Australia,1695
+K Console,6/3/2019,United Kingdom,9428
+K Console,6/3/2019,United States,57056
+K Console,6/3/2019,Germany,
+K Console,6/10/2019,United States,88774
+K Console,6/10/2019,United Kingdom,13960
+K Console,6/10/2019,Australia,2448
+K Console,6/10/2019,Germany,5922
+K Console,6/17/2019,United Kingdom,8011
+K Console,6/17/2019,United States,47515
+K Console,6/17/2019,Australia,1818
+K Console,6/17/2019,Germany,3696
+K Console,6/24/2019,United States,49291
+K Console,6/24/2019,United Kingdom,7519
+K Console,6/24/2019,Australia,1691
+K Console,6/24/2019,Germany,
+K Console,7/1/2019,United States,9278
+K Console,7/1/2019,Germany,548
+K Console,7/1/2019,Germany,3254
+K Console,7/1/2019,Australia,225
+K Console,7/1/2019,Australia,
+K Console,7/1/2019,United States,
+K Console,7/1/2019,United Kingdom,
+K Console,7/1/2019,United Kingdom,
+K Console,7/8/2019,United Kingdom,8750
+K Console,7/8/2019,Australia,1285
+K Console,7/8/2019,Germany,3486
+K Console,7/8/2019,United States,42636
+K Console,7/15/2019,Australia,1499
+K Console,7/15/2019,Germany,4008
+K Console,7/15/2019,United States,45366
+K Console,7/15/2019,United Kingdom,
+K Console,7/22/2019,Australia,1828
+K Console,7/22/2019,Germany,3663
+K Console,7/22/2019,United Kingdom,11166
+K Console,7/22/2019,United States,
+K Console,7/29/2019,Australia,1856
+K Console,7/29/2019,United Kingdom,11134
+K Console,7/29/2019,United States,83279
+K Console,7/29/2019,Germany,4191
+K Console,8/5/2019,Germany,3830
+K Console,8/5/2019,United States,55389
+K Console,8/5/2019,Australia,1525
+K Console,8/5/2019,United Kingdom,9034
+K Console,8/12/2019,Germany,3995
+K Console,8/12/2019,United States,54595
+K Console,8/12/2019,United Kingdom,10049
+K Console,8/12/2019,Australia,
+K Console,8/19/2019,United States,80209
+K Console,8/19/2019,Australia,2234
+K Console,8/19/2019,Germany,5132
+K Console,8/19/2019,United Kingdom,
+K Console,8/26/2019,United States,48687
+K Console,8/26/2019,Germany,3745
+K Console,8/26/2019,United Kingdom,9604
+K Console,8/26/2019,Australia,1833
+K Console,9/2/2019,Germany,4046
+K Console,9/2/2019,United States,57799
+K Console,9/2/2019,Australia,1853
+K Console,9/2/2019,United Kingdom,
+K Console,9/9/2019,Germany,6557
+K Console,9/9/2019,Australia,2564
+K Console,9/9/2019,United Kingdom,14340
+K Console,9/9/2019,United States,76441
+K Console,9/16/2019,Germany,4602
+K Console,9/16/2019,Australia,2004
+K Console,9/16/2019,United Kingdom,12660
+K Console,9/16/2019,United States,60105
+K Console,9/23/2019,United Kingdom,20935
+K Console,9/23/2019,United States,70801
+K Console,9/23/2019,Australia,2722
+K Console,9/23/2019,Germany,6227
+K Console,9/30/2019,Germany,4785
+K Console,9/30/2019,United States,57589
+K Console,9/30/2019,Australia,2257
+K Console,9/30/2019,United Kingdom,
+K Console,10/7/2019,United States,61755
+K Console,10/7/2019,Germany,5749
+K Console,10/7/2019,Australia,2076
+K Console,10/7/2019,United Kingdom,14431
+K Console,10/14/2019,Australia,1841
+K Console,10/14/2019,Germany,4885
+K Console,10/14/2019,United Kingdom,10791
+K Console,10/14/2019,United States,60107
+K Console,10/21/2019,United States,71227
+K Console,10/21/2019,United Kingdom,13617
+K Console,10/21/2019,Australia,2435
+K Console,10/21/2019,Germany,5891
+K Console,10/28/2019,Australia,2513
+K Console,10/28/2019,Germany,4974
+K Console,10/28/2019,United States,61104
+K Console,10/28/2019,United Kingdom,
+K Console,11/4/2019,United Kingdom,11365
+K Console,11/4/2019,United States,64622
+K Console,11/4/2019,Germany,5128
+K Console,11/4/2019,Australia,2116
+K Console,11/11/2019,United States,49745
+K Console,11/11/2019,United Kingdom,8966
+K Console,11/11/2019,Australia,1359
+K Console,11/11/2019,Germany,5455
+K Console,11/18/2019,Australia,1855
+K Console,11/18/2019,Germany,5874
+K Console,11/18/2019,United States,52929
+K Console,11/18/2019,United Kingdom,8321
+K Console,11/25/2019,Germany,4529
+K Console,11/25/2019,Australia,1916
+K Console,11/25/2019,United Kingdom,8827
+K Console,11/25/2019,United States,53804
+K Console,12/2/2019,United States,70870
+K Console,12/2/2019,Germany,4923
+K Console,12/2/2019,Australia,2663
+K Console,12/2/2019,United Kingdom,13786
+K Console,12/9/2019,United Kingdom,13213
+K Console,12/9/2019,Germany,4886
+K Console,12/9/2019,United States,74647
+K Console,12/9/2019,Australia,2404
+K Console,12/16/2019,Australia,1807
+K Console,12/16/2019,Germany,3987
+K Console,12/16/2019,United Kingdom,12156
+K Console,12/16/2019,United States,63215
+K Console,12/23/2019,United Kingdom,8217
+K Console,12/23/2019,United States,50667
+K Console,12/23/2019,Germany,3940
+K Console,12/23/2019,Australia,1434
+K Console,12/30/2019,United Kingdom,2560
+K Console,12/30/2019,United States,17213
+K Console,12/30/2019,Australia,472
+K Console,12/30/2019,Germany,
