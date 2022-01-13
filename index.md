@@ -65,6 +65,10 @@ https://www.getdbt.com/success-stories/jetblue/
 Texas officials order power plant operators to prepare for winter [hazards](https://www.npr.org/2021/12/07/1062017005/texas-officials-order-power-plant-operators-to-prepare-for-winter-hazards)    
 https://www.npr.org/2021/12/07/1062017005/texas-officials-order-power-plant-operators-to-prepare-for-winter-hazards
 
+### [Slides](https://github.com/brook-miller/mbai-417-data/blob/main/enterprise-data-quality/enterprise-data-quality.pdf)
+
+### [Homework, Notes, Additional Readings](https://brook-miller.github.io/mbai-417-data/enterprise-data-quality/)  
+
 
 ## Emerging Data & Cloud
 
