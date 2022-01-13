@@ -32,3 +32,6 @@ https://aws.amazon.com/data-exchange/
 
 [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/) - by Wes McKinney the author of pandas, really helpful for understanding or improving upon the analysis in the labs but more reference focused than end to end project
 
+2 Podcasts
+* [Mike Tung on lessons learned from building, maintaining, and using a knowledge graph with over a trillion connected facts](https://thedataexchange.media/applications-of-knowledge-graphs/) - Alternative data, knowledge graph, semantic web. [Google Knowledge Graph](https://blog.google/products/search/introducing-knowledge-graph-things-not/) - available as an api through GCP
+* [Tidy Data with Hadley Wickham](https://www.trifacta.com/podcast/tidy-data-with-hadley-wickham/) - Even though Hadley is in the R ecosystem it's a good chat to help think about preparing and shaping data for analysis, visualization
