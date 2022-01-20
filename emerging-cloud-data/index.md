@@ -25,3 +25,5 @@ https://www.bostonglobe.com/business/technology/2016/03/31/making-movies-moneyba
 
 * [Examples of using OpenAI API - GPT3 etc...](https://beta.openai.com/examples)
 * [Pre trained image models from Clarifai](https://www.clarifai.com/developers/pre-trained-models)
+
+* Podcast [Effective Pandas](https://www.pythonpodcast.com/effective-pandas-book-episode-348/)
