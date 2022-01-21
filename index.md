@@ -85,6 +85,9 @@ https://www.retaildive.com/news/how-nike-is-using-dtc-and-data-to-expand-its-emp
 AWS Data [Exchange](https://aws.amazon.com/data-exchange/)  
 https://aws.amazon.com/data-exchange/
 
+### [Slides](https://github.com/brook-miller/mbai-417-data/blob/main/emerging-cloud-data/emerging-data-cloud.pdf)
+
+### [Homework, Notes, Additional Readings](https://brook-miller.github.io/mbai-417-data/emerging-cloud-data/) 
 
 ## Data Governance & Metadata
 
