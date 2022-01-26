@@ -8,8 +8,10 @@
 
 [data silos](https://medium.com/97-things/accessible-data-empowers-organizations-but-it-can-also-cause-problems-5db1c12857d5)
 
-[macie](https://www.youtube.com/watch?v=CenD1dq3xj8&feature=youtu.be)
+[AWS Macie](https://www.youtube.com/watch?v=CenD1dq3xj8&feature=youtu.be)
 
-[adversarial data](https://www.youtube.com/watch?v=k5eL_al_m)
+[adversarial data](https://www.youtube.com/watch?v=k5eL_al_m7Q)
+
+[Legendary Pictures](https://www.bostonglobe.com/business/technology/2016/03/31/making-movies-moneyball-way/Uzgwh2cdGthA1N3nZHqz0N/story.html)
 
 [location-data](https://www.nytimes.com/interactive/2019/12/20/opinion/location-data-national-security.html)
