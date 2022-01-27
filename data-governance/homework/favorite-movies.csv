@@ -1,4 +1,4 @@
-name,email_address,social_security_num,gender_age,Ethnicity,movie1,movie2,movie3,movie4,movie5
+name,email_address,social_security_num,gender_age,ethnicity,movie1,movie2,movie3,movie4,movie5
 Terri Jackson,aaron98@example.net,366-92-2029,Female 35-54,Caucasian or White,Dirty Dancing,Facing the Giants,fireproof,Titanic,na
 Brian Lara,jennifer27@example.net,086-83-5627,Female 25-34,Caucasian or White,Gone with the Wind,One Night with the King,Aladdin,The Birds,The Fifth Element
 Michael Martinez,lunatammy@example.net,626-62-2323,Female 35-54,Caucasian or White,Footloose,The Lord of the Rings,Labyrinth,Harry Potter and the Chamber of Secrets,Girls Just Want to Have Fun
