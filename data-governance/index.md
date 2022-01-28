@@ -39,3 +39,6 @@ start by attempting to remove the friction from the existing process.
 >
 > Cameron Davies, head of corporate decision sciences, NBCUniversal
 (NBCU)
+
+* [The Hustle on Professor Anderson's Harbinger Customers](https://thehustle.co/the-customers-who-repeatedly-buy-doomed-products/)
+* [Reviews Without a Purchase: Low Ratings, Loyal Customers, and Deception](http://web.mit.edu/simester/Public/Papers/Deceptive_Reviews.pdf)
