@@ -104,6 +104,9 @@ https://medium.com/97-things/accessible-data-empowers-organizations-but-it-can-a
 [Legendary Pictures](https://www.bostonglobe.com/business/technology/2016/03/31/making-movies-moneyball-way/Uzgwh2cdGthA1N3nZHqz0N/story.html): Making movies the ‘Moneyball’ way  
 https://www.bostonglobe.com/business/technology/2016/03/31/making-movies-moneyball-way/Uzgwh2cdGthA1N3nZHqz0N/story.html
 
+### [Slides](https://github.com/brook-miller/mbai-417-data/blob/main/data-governance/data-governance.pdf)
+
+### [Homework, Notes, Additional Readings](https://brook-miller.github.io/mbai-417-data/data-governance/)
 
 ## Operationalizing Data
 
