@@ -14,3 +14,10 @@ My office hours will now be 4:30-6 on Wednesdays before class in L141
 * [YouTube - Data Wranglers & Sarah Catanzaro, Partner at Amplify Partners on the modern data stack](https://www.youtube.com/watch?v=55DqHH9OoEc)
 * [Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles-ebook/dp/B07BNX4MWC/)
 * [The data-driven enterprise of 2025](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-data-driven-enterprise-of-2025)
+
+## Emerging Data Science Tools to Check Out
+Kedro
+Hex
+Observable
+Noteable
+Gradio
