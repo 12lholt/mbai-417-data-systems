@@ -17,3 +17,5 @@ https://www.bankingdive.com/news/wells-fargo-upstart-student-loan-case-study/571
 [Lab Part 2](https://github.com/brook-miller/mbai-417-data/blob/main/operationalizing-data/in-class/content_recommender-2.ipynb)
 
 [Relections Posted](https://github.com/brook-miller/mbai-417-data/tree/main/reflections)
+
+[temp slides](https://www.dropbox.com/s/bjb1n0403ywnrmi/class%205%20slides.pptx?dl=0)
