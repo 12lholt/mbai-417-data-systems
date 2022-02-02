@@ -1,3 +1,7 @@
+[class 5 lab partners](https://docs.google.com/document/d/1N4CwTXp5WKE-lPSH7If2-b1irwtp7W_qR6McWLgBlWA/edit?usp=sharing)
+
+[participation](https://docs.google.com/spreadsheets/d/1JmqCMDwhMIBrP8_h-smjdv4GuEW5u7g6zLbRvrEixmw/edit?usp=sharing)
+
 [Lab Part 1](https://github.com/brook-miller/mbai-417-data/blob/main/operationalizing-data/in-class/content_recommender.ipynb)
 
 What’s in Store for the Future of the [Modern Data Stack](https://towardsdatascience.com/the-future-of-the-modern-data-stack-2de175b3c809)?   
