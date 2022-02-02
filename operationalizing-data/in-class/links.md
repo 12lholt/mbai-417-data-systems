@@ -15,3 +15,5 @@ https://www.bankingdive.com/news/wells-fargo-upstart-student-loan-case-study/571
 [Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241/)
 
 [Lab Part 2](https://github.com/brook-miller/mbai-417-data/blob/main/operationalizing-data/in-class/content_recommender-2.ipynb)
+
+[Relections Posted](https://github.com/brook-miller/mbai-417-data/tree/main/reflections)
