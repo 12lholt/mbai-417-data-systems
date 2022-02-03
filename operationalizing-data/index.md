@@ -9,7 +9,7 @@ Office hours are by appointment only - please reach out via email if you'd like 
 
 
 ## Probably Helpful (not required)
-[Slides](https://github.com/brook-miller/mbai-417-data/blob/main/data-governance/data-governance.pdf)
+[Slides](https://github.com/brook-miller/mbai-417-data/blob/main/operationalizing-data/operationalizing-data.pdf)
 
 [Towards Feature Engineering - our final in class lab](https://github.com/brook-miller/mbai-417-data/blob/main/operationalizing-data/in-class/content_recommender-2.ipynb)
 
