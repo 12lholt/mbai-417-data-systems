@@ -123,6 +123,6 @@ https://towardsdatascience.com/the-future-of-the-modern-data-stack-2de175b3c809
 Wells Fargo, [Upstart](https://www.bankingdive.com/news/wells-fargo-upstart-student-loan-case-study/571849/) criticized after study finds loan disparities  
 https://www.bankingdive.com/news/wells-fargo-upstart-student-loan-case-study/571849/
 
-[Slides](https://github.com/brook-miller/mbai-417-data/blob/main/operationalizing-data/operationalizing-data.pdf)
+### [Slides](https://github.com/brook-miller/mbai-417-data/blob/main/operationalizing-data/operationalizing-data.pdf)
 
 ### [Homework, Notes, Additional Readings](https://brook-miller.github.io/mbai-417-data/operationalizing-data/)
