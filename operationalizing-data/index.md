@@ -36,3 +36,4 @@ Office hours are by appointment only - please reach out via email if you'd like 
 ### Operationalizing Models & Workflows
 * [Kedro](https://kedro.readthedocs.io/en/stable/01_introduction/01_introduction.html) - Kedro is an open-source Python framework for creating reproducible, maintainable and modular data science code. It borrows concepts from software engineering best-practice and applies them to machine-learning code; applied concepts include modularity, separation of concerns and versioning.
 * [MLFlow](https://mlflow.org/) An open source platform for the machine learning lifecycle
+* [MetaFlow](https://metaflow.org/) A framework for real-life data science.  Metaflow makes it quick and easy to build and manage real-life data science projects.
